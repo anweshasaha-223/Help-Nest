@@ -1,15 +1,4 @@
 
-
-
-
-Copilot is an AI and may make mistakes. Your conversations are personalized. Opt out.
-Today
-You said
-
-generate a readme for this project
-Copilot said
-Here’s a polished README.md draft for your project Help Nest — a cooperative and gig services platform for household and community services:
-
 🏡 Help Nest
 A Cooperative & Gig Services Platform for Household & Community Services
 
@@ -59,7 +48,9 @@ Check out the deployed version here:
 This project is licensed under the MIT License.
 
 👩‍💻 Maintainers
-Anwesha Saha – GitHub Profile 
-Message Copilot or @ mention a tab
+   1.Anwesha Saha
+   2.Archita Singha
+   3.Abhisikta Ghosh
+   4. Disha Debnath
 
 
