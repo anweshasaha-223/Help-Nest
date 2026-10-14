@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      (function () {
+        // Suppress Vite HMR WebSocket connection errors in AI Studio iframe environment
+        window.addEventListener(
+          'error',
+          function (e) {
+            const msg = (e && e.message) || '';
+            const file = (e && e.filename) || '';
+            if (
+              msg.includes('WebSocket') ||
+              msg.includes('closed without opened') ||
+              file.includes('@vite/client')
+            ) {
+              e.preventDefault?.();
+              e.stopImmediatePropagation?.();
+              return true;
+            }
+          },
+          true
+        );
+
+        window.addEventListener(
+          'unhandledrejection',
+          function (e) {
+            const reason = e && e.reason ? String(e.reason) : '';
+            if (reason.includes('WebSocket') || reason.includes('closed without opened')) {
+              e.preventDefault?.();
+              e.stopImmediatePropagation?.();
+            }
+          },
+          true
+        );
+
+        const NativeWS = window.WebSocket;
+        if (!NativeWS) return;
+
+        function ViteSafeWebSocket(url, protocols) {
+          // Allow Socket.IO or non-Vite sockets to proceed with Native WebSocket
+          const isVite =
+            protocols === 'vite-hmr' ||
+            (typeof url === 'string' &&
+              (url.includes('vite') || url.includes('/@vite/client') || url.endsWith(':3000/')));
+
+          if (isVite && protocols === 'vite-hmr') {
+            // Emulate an open, silent event target so @vite/client never triggers close-before-open
+            const listeners = {};
+            const mock = {
+              url: url,
+              readyState: NativeWS.OPEN,
+              bufferedAmount: 0,
+              extensions: '',
+              protocol: 'vite-hmr',
+              binaryType: 'blob',
+              addEventListener: function (type, fn) {
+                listeners[type] = listeners[type] || [];
+                listeners[type].push(fn);
+              },
+              removeEventListener: function (type, fn) {
+                if (!listeners[type]) return;
+                listeners[type] = listeners[type].filter(function (cb) { return cb !== fn; });
+              },
+              dispatchEvent: function () { return true; },
+              send: function () {},
+              close: function () {
+                mock.readyState = NativeWS.CLOSED;
+              },
+              onopen: null,
+              onclose: null,
+              onerror: null,
+              onmessage: null,
+            };
+            return mock;
+          }
+
+          try {
+            const ws = new NativeWS(url, protocols);
+            ws.addEventListener('error', function (err) {
+              if (err && typeof err.stopImmediatePropagation === 'function') {
+                err.stopImmediatePropagation();
+              }
+            });
+            return ws;
+          } catch {
+            return {
+              readyState: NativeWS.CLOSED,
+              addEventListener: function () {},
+              removeEventListener: function () {},
+              send: function () {},
+              close: function () {},
+            };
+          }
+        }
+
+        ViteSafeWebSocket.prototype = NativeWS.prototype;
+        ViteSafeWebSocket.CONNECTING = NativeWS.CONNECTING;
+        ViteSafeWebSocket.OPEN = NativeWS.OPEN;
+        ViteSafeWebSocket.CLOSING = NativeWS.CLOSING;
+        ViteSafeWebSocket.CLOSED = NativeWS.CLOSED;
+        window.WebSocket = ViteSafeWebSocket;
+      })();
+    </script>
+    <title>Help Nest — Cooperative Household & Community Services Platform</title>
+    <meta name="description" content="Cooperative Household & Community Services Platform with Gemma 4 AI request understanding, fair worker dispatch, multilingual worker PWA, and 90:10 cooperative settlement." />
+    <meta property="og:title" content="Help Nest — Cooperative Household & Community Services Platform" />
+    <meta property="og:description" content="Cooperative Household & Community Services Platform with Gemma 4 AI request understanding, fair worker dispatch, multilingual worker PWA, and 90:10 cooperative settlement." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" content="#0F172A" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="HelpNest" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/svg+xml" href="/icon.svg" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Plus+Jakarta+Sans:wght@500;600;700&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  </head>
+  <body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 antialiased selection:bg-teal-700 selection:text-white">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

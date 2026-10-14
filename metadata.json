@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix Help Nest — Cooperative Household \u0026 Community Services",
+  "description": "Cooperative Household \u0026 Community Services Platform with Gemma 4 AI request understanding, fair worker dispatch, multilingual worker PWA, and 90:10 cooperative settlement.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

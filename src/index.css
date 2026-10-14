@@ -1,0 +1,348 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* ========================================================================= */
+  /* HELP NEST HD VIBRANT PALETTE                                              */
+  /* ========================================================================= */
+  /* User-specified curated color palette:                                     */
+  /* - Rich emerald green: #087F5B                                             */
+  /* - Deep teal: #075E54                                                      */
+  /* - Soft mint: #DDF5E8                                                      */
+  /* - Warm ivory: #FFFCF5                                                     */
+  /* - Fresh off-white: #F7FAF7                                                */
+  /* - Soft peach: #FFE4D6                                                     */
+  /* - Elegant champagne gold: #D6AD60                                         */
+  /* - Dark charcoal: #24312C                                                  */
+  /* ========================================================================= */
+
+  --color-rich-emerald: #087F5B;
+  --color-deep-teal: #075E54;
+  --color-soft-mint: #DDF5E8;
+  --color-warm-ivory: #FFFCF5;
+  --color-fresh-offwhite: #F7FAF7;
+  --color-soft-peach: #FFE4D6;
+  --color-champagne-gold: #D6AD60;
+  --color-dark-charcoal: #24312C;
+
+  /* Theme mappings for existing Tailwind color classes across all components */
+  --color-emerald-50: #DDF5E8;
+  --color-emerald-100: #C4ECD7;
+  --color-emerald-200: #9CE0BD;
+  --color-emerald-300: #68CE9B;
+  --color-emerald-400: #34B67C;
+  --color-emerald-500: #0E9B6E;
+  --color-emerald-600: #087F5B;
+  --color-emerald-700: #087F5B;
+  --color-emerald-800: #066649;
+  --color-emerald-900: #044E37;
+  --color-emerald-950: #022B1E;
+
+  --color-teal-50: #E6F6F3;
+  --color-teal-100: #CEEFE8;
+  --color-teal-200: #A2E2D6;
+  --color-teal-300: #6CCBC0;
+  --color-teal-400: #38ABA1;
+  --color-teal-500: #1B8C82;
+  --color-teal-600: #0D7267;
+  --color-teal-700: #075E54;
+  --color-teal-800: #054C44;
+  --color-teal-900: #033A34;
+  --color-teal-950: #022420;
+
+  --color-amber-50: #FFF9EE;
+  --color-amber-100: #FEF1D7;
+  --color-amber-200: #FDE2AE;
+  --color-amber-300: #F5CD7E;
+  --color-amber-400: #E4BE6B;
+  --color-amber-500: #D6AD60;
+  --color-amber-600: #B88F40;
+  --color-amber-700: #96722C;
+  --color-amber-800: #78581F;
+  --color-amber-900: #5D4316;
+  --color-amber-950: #3A280B;
+
+  --color-slate-50: #F7FAF7;
+  --color-slate-100: #EFF4F0;
+  --color-slate-200: #DFE8E2;
+  --color-slate-300: #C8D6CD;
+  --color-slate-400: #96AA9E;
+  --color-slate-500: #667B6F;
+  --color-slate-600: #4B5E54;
+  --color-slate-700: #384841;
+  --color-slate-800: #2C3933;
+  --color-slate-850: #24312C;
+  --color-slate-900: #24312C;
+  --color-slate-950: #17211D;
+}
+
+@layer base {
+  :root {
+    --hn-emerald: #087F5B;
+    --hn-teal: #075E54;
+    --hn-mint: #DDF5E8;
+    --hn-ivory: #FFFCF5;
+    --hn-offwhite: #F7FAF7;
+    --hn-peach: #FFE4D6;
+    --hn-gold: #D6AD60;
+    --hn-charcoal: #24312C;
+    --hn-card-border: rgba(36, 49, 44, 0.08);
+    --hn-card-shadow: 0 1px 3px rgba(36, 49, 44, 0.04), 0 6px 18px -4px rgba(7, 94, 84, 0.06);
+    --hn-card-shadow-hover: 0 4px 10px rgba(36, 49, 44, 0.06), 0 12px 28px -6px rgba(7, 94, 84, 0.1);
+  }
+
+  .dark {
+    --hn-card-border: rgba(223, 232, 226, 0.12);
+    --hn-card-shadow: 0 2px 6px rgba(0, 0, 0, 0.35), 0 10px 24px -6px rgba(0, 0, 0, 0.45);
+    --hn-card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.45), 0 16px 32px -8px rgba(0, 0, 0, 0.55);
+  }
+
+  html {
+    color-scheme: light dark;
+  }
+
+  body {
+    font-family: 'Public Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: var(--hn-offwhite);
+    color: var(--hn-charcoal);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  .dark body {
+    background-color: #17211D;
+    color: #F7FAF7;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    letter-spacing: -0.015em;
+  }
+
+  .font-mono, .tabular-nums {
+    font-family: 'JetBrains Mono', monospace;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* Polished focus rings */
+  :focus-visible {
+    outline: 2px solid #075E54;
+    outline-offset: 2px;
+  }
+
+  .dark :focus-visible {
+    outline: 2px solid #38ABA1;
+    outline-offset: 2px;
+  }
+}
+
+/* ========================================================================= */
+/* HD VISUAL POLISH & ELEVATION                                              */
+/* ========================================================================= */
+
+/* Refined Header bar with warm ivory / dark charcoal frosted sheen */
+header.sticky {
+  background: rgba(255, 252, 245, 0.94) !important;
+  border-bottom: 1px solid rgba(7, 94, 84, 0.12) !important;
+  box-shadow: 0 1px 4px rgba(36, 49, 44, 0.04), 0 4px 12px -2px rgba(7, 94, 84, 0.03) !important;
+}
+
+.dark header.sticky {
+  background: rgba(23, 33, 29, 0.94) !important;
+  border-bottom: 1px solid rgba(223, 232, 226, 0.1) !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3) !important;
+}
+
+/* High-Definition Primary Action Buttons */
+button.bg-teal-700,
+button.bg-emerald-700,
+.btn-primary {
+  background-color: #075E54 !important;
+  color: #FFFFFF !important;
+  border: 1px solid rgba(255, 255, 255, 0.14) !important;
+  box-shadow: 0 1px 2px rgba(7, 94, 84, 0.18), 0 3px 8px -1px rgba(7, 94, 84, 0.28) !important;
+  transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+button.bg-teal-700:hover,
+button.bg-emerald-700:hover,
+.btn-primary:hover {
+  background-color: #054C44 !important;
+  box-shadow: 0 2px 4px rgba(7, 94, 84, 0.22), 0 6px 14px -2px rgba(7, 94, 84, 0.35) !important;
+  transform: translateY(-0.5px);
+}
+
+button.bg-teal-700:active,
+button.bg-emerald-700:active,
+.btn-primary:active {
+  transform: translateY(0.5px);
+  box-shadow: 0 1px 2px rgba(7, 94, 84, 0.2) !important;
+}
+
+/* Success / Completion Buttons & Badges */
+button.bg-emerald-700 {
+  background-color: #087F5B !important;
+}
+button.bg-emerald-700:hover {
+  background-color: #066649 !important;
+}
+
+/* Refined Cards with HD subtle depth and warm tinted surfaces */
+.bg-white {
+  background-color: #FFFCF5 !important;
+}
+
+.dark .bg-white {
+  background-color: #24312C !important;
+}
+
+/* Subtle border and shadow enhancement on card containers */
+.rounded-2xl.border,
+.rounded-xl.border {
+  border-color: rgba(36, 49, 44, 0.1) !important;
+  box-shadow: var(--hn-card-shadow);
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.dark .rounded-2xl.border,
+.dark .rounded-xl.border {
+  border-color: rgba(223, 232, 226, 0.12) !important;
+  box-shadow: var(--hn-card-shadow);
+}
+
+/* Polished Form Inputs */
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="tel"],
+input[type="number"],
+input[type="date"],
+select,
+textarea {
+  background-color: #FFFCF5;
+  border-color: rgba(36, 49, 44, 0.16) !important;
+  color: #24312C !important;
+  box-shadow: 0 1px 2px rgba(36, 49, 44, 0.03) inset !important;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.dark input[type="text"],
+.dark input[type="email"],
+.dark input[type="password"],
+.dark input[type="tel"],
+.dark input[type="number"],
+.dark input[type="date"],
+.dark select,
+.dark textarea {
+  background-color: #1F2A25 !important;
+  border-color: rgba(223, 232, 226, 0.16) !important;
+  color: #F7FAF7 !important;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2) inset !important;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  border-color: #075E54 !important;
+  box-shadow: 0 0 0 3px rgba(7, 94, 84, 0.16) !important;
+}
+
+.dark input:focus,
+.dark select:focus,
+.dark textarea:focus {
+  border-color: #34B67C !important;
+  box-shadow: 0 0 0 3px rgba(52, 182, 124, 0.2) !important;
+}
+
+/* Status Badges with Vibrant HD Contrast */
+/* 1. Completed / Paid: Rich Emerald on Soft Mint */
+.bg-emerald-100,
+.bg-emerald-50 {
+  background-color: #DDF5E8 !important;
+  color: #087F5B !important;
+}
+.text-emerald-800,
+.text-emerald-700 {
+  color: #087F5B !important;
+}
+
+/* 2. Pending / Warnings / Estimates: Champagne Gold on Warm Ivory */
+.bg-amber-100,
+.bg-amber-50 {
+  background-color: #FFF3DA !important;
+  color: #8C6A29 !important;
+}
+.text-amber-800,
+.text-amber-700 {
+  color: #8C6A29 !important;
+}
+
+/* 3. Errors / Emergency / SOS: Vibrant Crimson */
+.bg-red-50,
+.bg-red-100 {
+  background-color: #FFE5E5 !important;
+  color: #C92A2A !important;
+}
+.text-red-700,
+.text-red-800 {
+  color: #C92A2A !important;
+}
+
+/* Dark mode badge adjustments for high contrast */
+.dark .bg-emerald-950\/40,
+.dark .bg-emerald-950\/60 {
+  background-color: rgba(8, 127, 91, 0.22) !important;
+  color: #68CE9B !important;
+}
+
+.dark .bg-amber-950\/40,
+.dark .bg-amber-950\/60 {
+  background-color: rgba(214, 173, 96, 0.2) !important;
+  color: #F5CD7E !important;
+}
+
+.dark .bg-red-950\/40,
+.dark .bg-red-950\/60 {
+  background-color: rgba(201, 42, 42, 0.24) !important;
+  color: #FFA8A8 !important;
+}
+
+/* Leaflet Map integration */
+.leaflet-container {
+  z-index: 10 !important;
+  font-family: 'Public Sans', sans-serif !important;
+  border-radius: 0.75rem;
+}
+
+/* Active Navigation Tabs Across Customer, Worker, and Admin Dashboards */
+button.bg-slate-900,
+span.bg-slate-900 {
+  background-color: #075E54 !important;
+  color: #FFFFFF !important;
+  box-shadow: 0 1px 3px rgba(7, 94, 84, 0.2), 0 2px 6px -1px rgba(7, 94, 84, 0.25) !important;
+}
+
+.dark button.bg-slate-900,
+.dark span.bg-slate-900,
+.dark button[class*="bg-teal-700"],
+.dark span[class*="bg-teal-700"] {
+  background-color: #087F5B !important;
+  color: #FFFFFF !important;
+}
+
+/* 90:10 Cooperative Split & Financial Figures */
+.tabular-nums {
+  font-feature-settings: "tnum" 1;
+}
+
+/* Subtle table row hover effect with soft mint tint */
+tr:hover td {
+  background-color: rgba(221, 245, 232, 0.3) !important;
+}
+
+.dark tr:hover td {
+  background-color: rgba(8, 127, 91, 0.1) !important;
+}
+

@@ -1,0 +1,2516 @@
+{
+  "users": [
+    {
+      "id": "usr-wrk-1",
+      "name": "Subrata Mondal",
+      "email": "subrata@helpnest.coop",
+      "phone": "+91 98305 11201",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-101",
+      "location": {
+        "lat": 22.5768,
+        "lng": 88.4265,
+        "addressLabel": "Karunamoyee, Sector-2, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-2",
+      "name": "Rameshwar Yadav",
+      "email": "rameshwar@helpnest.coop",
+      "phone": "+91 98309 77812",
+      "role": "WORKER",
+      "preferredLanguage": "hi",
+      "workerId": "wrk-102",
+      "location": {
+        "lat": 22.5815,
+        "lng": 88.4122,
+        "addressLabel": "Labony Estate, Sector-1, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-3",
+      "name": "Bikash Das",
+      "email": "bikash@helpnest.coop",
+      "phone": "+91 98312 65400",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-103",
+      "location": {
+        "lat": 22.5745,
+        "lng": 88.4338,
+        "addressLabel": "College More, Sector-5, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-admin-1",
+      "name": "Ananya Sen (Society Secretary)",
+      "email": "admin@helpnest.coop",
+      "phone": "+91 98300 90011",
+      "role": "ADMIN",
+      "preferredLanguage": "en",
+      "societyName": "Help Nest Cooperative Society",
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-1791805144203",
+      "name": "Anwesha saha",
+      "email": "customer@helpnest.coop",
+      "phone": "8777650434",
+      "role": "CUSTOMER",
+      "preferredLanguage": "en",
+      "location": {
+        "lat": 22.5792,
+        "lng": 88.4175,
+        "addressLabel": "ichapur"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-1791812448503",
+      "name": "Archita Singha",
+      "email": "architasingha31@gmail.com",
+      "phone": "+918240672124",
+      "role": "CUSTOMER",
+      "preferredLanguage": "en",
+      "location": {
+        "lat": 22.5792,
+        "lng": 88.4175,
+        "addressLabel": "daspara road"
+      },
+      "passwordHash": "83bdd34b188462f084a3f0ea7b411768fcfee31f3ebb28e1fab0b43d33741304"
+    },
+    {
+      "id": "usr-1791831681720",
+      "name": "Ghoshabhisikta",
+      "email": "ghoshabhisikta1@gmail.com",
+      "phone": "",
+      "role": "CUSTOMER",
+      "preferredLanguage": "en",
+      "location": {
+        "lat": 22.5792,
+        "lng": 88.4175,
+        "addressLabel": ""
+      },
+      "passwordHash": "6c432cce13b7d9296fd1b6b1e303e88b70e4204d66f62caf5e2ce0fbd2b1107a"
+    },
+    {
+      "id": "usr-wrk-4",
+      "name": "Debashis Roy",
+      "email": "debashis@helpnest.coop",
+      "phone": "+91 98316 33091",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-104",
+      "location": {
+        "lat": 22.581,
+        "lng": 88.419,
+        "addressLabel": "GD Market, Sector-3, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-5",
+      "name": "Tapan Karmakar",
+      "email": "tapan@helpnest.coop",
+      "phone": "+91 98318 40922",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-105",
+      "location": {
+        "lat": 22.5785,
+        "lng": 88.415,
+        "addressLabel": "FE Block, Sector-3, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-6",
+      "name": "Shyamal Halder",
+      "email": "shyamal@helpnest.coop",
+      "phone": "+91 98311 55219",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-106",
+      "location": {
+        "lat": 22.583,
+        "lng": 88.4235,
+        "addressLabel": "BJ Block, Sector-2, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-7",
+      "name": "Mita Mukherjee",
+      "email": "mita@helpnest.coop",
+      "phone": "+91 98304 66701",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-107",
+      "location": {
+        "lat": 22.5802,
+        "lng": 88.421,
+        "addressLabel": "EE Block, Sector-3, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-8",
+      "name": "Purnima Ghosh",
+      "email": "purnima@helpnest.coop",
+      "phone": "+91 98307 88934",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-108",
+      "location": {
+        "lat": 22.5842,
+        "lng": 88.4095,
+        "addressLabel": "BD Block, Sector-1, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-9",
+      "name": "Pradip Halder",
+      "email": "pradip@helpnest.coop",
+      "phone": "+91 98308 12345",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-109",
+      "location": {
+        "lat": 22.579,
+        "lng": 88.4215,
+        "addressLabel": "FD Block, Sector-3, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-10",
+      "name": "Anup Majumder",
+      "email": "anup@helpnest.coop",
+      "phone": "+91 98319 54321",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-110",
+      "location": {
+        "lat": 22.572,
+        "lng": 88.435,
+        "addressLabel": "Technopolis, Sector-5, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-11",
+      "name": "Kartik Naskar",
+      "email": "kartik@helpnest.coop",
+      "phone": "+91 98302 98765",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-111",
+      "location": {
+        "lat": 22.585,
+        "lng": 88.408,
+        "addressLabel": "BA Block, Sector-1, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-12",
+      "name": "Soumen Bhowmick",
+      "email": "soumen@helpnest.coop",
+      "phone": "+91 98315 22110",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-112",
+      "location": {
+        "lat": 22.5775,
+        "lng": 88.425,
+        "addressLabel": "CK Block, Sector-2, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-13",
+      "name": "Tapas Pal",
+      "email": "tapas@helpnest.coop",
+      "phone": "+91 98303 66442",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-113",
+      "location": {
+        "lat": 22.5835,
+        "lng": 88.411,
+        "addressLabel": "BC Block, Sector-1, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-14",
+      "name": "Amitava Sengupta",
+      "email": "amitava@helpnest.coop",
+      "phone": "+91 98317 88990",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-114",
+      "location": {
+        "lat": 22.5798,
+        "lng": 88.418,
+        "addressLabel": "GC Market, Sector-3, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-15",
+      "name": "Sanjoy Mistri",
+      "email": "sanjoy@helpnest.coop",
+      "phone": "+91 98306 44332",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-115",
+      "location": {
+        "lat": 22.58,
+        "lng": 88.424,
+        "addressLabel": "CL Block, Sector-2, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-16",
+      "name": "Ashoke Sutradhar",
+      "email": "ashoke@helpnest.coop",
+      "phone": "+91 98310 11223",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-116",
+      "location": {
+        "lat": 22.582,
+        "lng": 88.414,
+        "addressLabel": "BB Block, Sector-1, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-17",
+      "name": "Biswanath Barman",
+      "email": "biswanath@helpnest.coop",
+      "phone": "+91 98321 77665",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-117",
+      "location": {
+        "lat": 22.573,
+        "lng": 88.431,
+        "addressLabel": "Webel More, Sector-5, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-18",
+      "name": "Ranjit Paul",
+      "email": "ranjit@helpnest.coop",
+      "phone": "+91 98314 55443",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-118",
+      "location": {
+        "lat": 22.576,
+        "lng": 88.417,
+        "addressLabel": "HB Block, Sector-3, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-19",
+      "name": "Alok Karmakar",
+      "email": "alok@helpnest.coop",
+      "phone": "+91 98322 33445",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-119",
+      "location": {
+        "lat": 22.5788,
+        "lng": 88.4195,
+        "addressLabel": "FC Block, Sector-3, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-20",
+      "name": "Nirmal Sen",
+      "email": "nirmal@helpnest.coop",
+      "phone": "+91 98301 99887",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-120",
+      "location": {
+        "lat": 22.5825,
+        "lng": 88.413,
+        "addressLabel": "CA Block, Sector-1, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-21",
+      "name": "Dipak Mondal",
+      "email": "dipak@helpnest.coop",
+      "phone": "+91 98313 77889",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-121",
+      "location": {
+        "lat": 22.575,
+        "lng": 88.432,
+        "addressLabel": "Godrej Waterside, Sector-5, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-22",
+      "name": "Goutam Roy",
+      "email": "goutam@helpnest.coop",
+      "phone": "+91 98325 66778",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-122",
+      "location": {
+        "lat": 22.581,
+        "lng": 88.4255,
+        "addressLabel": "BL Block, Sector-2, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-23",
+      "name": "Sunita Mahato",
+      "email": "sunita@helpnest.coop",
+      "phone": "+91 98305 88776",
+      "role": "WORKER",
+      "preferredLanguage": "hi",
+      "workerId": "wrk-123",
+      "location": {
+        "lat": 22.577,
+        "lng": 88.427,
+        "addressLabel": "CJ Block, Sector-2, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-24",
+      "name": "Gita Das",
+      "email": "gita@helpnest.coop",
+      "phone": "+91 98318 99001",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-124",
+      "location": {
+        "lat": 22.583,
+        "lng": 88.4115,
+        "addressLabel": "BE Block, Sector-1, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-25",
+      "name": "Rajesh Balmiki",
+      "email": "rajesh@helpnest.coop",
+      "phone": "+91 98309 33221",
+      "role": "WORKER",
+      "preferredLanguage": "hi",
+      "workerId": "wrk-125",
+      "location": {
+        "lat": 22.574,
+        "lng": 88.4345,
+        "addressLabel": "RDB Boulevard, Sector-5, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-26",
+      "name": "Anita Barui",
+      "email": "anita@helpnest.coop",
+      "phone": "+91 98317 44556",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-126",
+      "location": {
+        "lat": 22.5805,
+        "lng": 88.4185,
+        "addressLabel": "HA Block, Sector-3, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-27",
+      "name": "Sampa Sarkar",
+      "email": "sampa@helpnest.coop",
+      "phone": "+91 98320 11335",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-127",
+      "location": {
+        "lat": 22.578,
+        "lng": 88.426,
+        "addressLabel": "BK Block, Sector-2, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-28",
+      "name": "Rupa Chakraborty",
+      "email": "rupa@helpnest.coop",
+      "phone": "+91 98307 22446",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-128",
+      "location": {
+        "lat": 22.5812,
+        "lng": 88.4205,
+        "addressLabel": "IA Block, Sector-3, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-29",
+      "name": "Rekha Khatun",
+      "email": "rekha@helpnest.coop",
+      "phone": "+91 98311 88992",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-129",
+      "location": {
+        "lat": 22.5818,
+        "lng": 88.4135,
+        "addressLabel": "BF Block, Sector-1, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-wrk-30",
+      "name": "Maya Bauri",
+      "email": "maya@helpnest.coop",
+      "phone": "+91 98324 55667",
+      "role": "WORKER",
+      "preferredLanguage": "bn",
+      "workerId": "wrk-130",
+      "location": {
+        "lat": 22.5735,
+        "lng": 88.4325,
+        "addressLabel": "DLF 1, Sector-5, Salt Lake"
+      },
+      "passwordHash": "8b4b58ddc70a731d74542d107dc32e6bdffcdcef126325d7b17db71e631e7c5d"
+    },
+    {
+      "id": "usr-1791877119944",
+      "name": "Anwesha Saha",
+      "email": "anwesha0337@gmail.com",
+      "phone": "+919038655399",
+      "role": "CUSTOMER",
+      "preferredLanguage": "en",
+      "location": {
+        "lat": 22.5792,
+        "lng": 88.4175,
+        "addressLabel": "ICHAPUR"
+      },
+      "passwordHash": "2c3bfa43d8bb0fe91eedf9a26f1ed5c85032ae65998c87dfe94b6424ba65a1e0"
+    },
+    {
+      "id": "usr-1791877359995",
+      "name": "Priya Chakraborty",
+      "email": "priya.worker.real@test.com",
+      "phone": "9830112233",
+      "role": "WORKER",
+      "preferredLanguage": "en",
+      "location": {
+        "lat": 22.581,
+        "lng": 88.42,
+        "addressLabel": "Sector-3, Salt Lake"
+      },
+      "workerId": "wrk-1791877359995",
+      "passwordHash": "3504f7b832871286bcff8e9efd4af849bc6a2ac5d9b07ace75858da434ba2461"
+    },
+    {
+      "id": "usr-1791877373018",
+      "name": "Anwesha Saha",
+      "email": "anwesha.customer.real@test.com",
+      "phone": "9830445566",
+      "role": "CUSTOMER",
+      "preferredLanguage": "en",
+      "location": {
+        "lat": 22.582,
+        "lng": 88.421,
+        "addressLabel": "HB Block, Sector-3, Salt Lake, Kolkata"
+      },
+      "passwordHash": "568280949ce89385acfcc5cc12b7f385aa918541bd2dd473ebb37956c3d3dd4c"
+    },
+    {
+      "id": "usr-1791898568622",
+      "name": "Archita Customer",
+      "email": "archita.customer@gmail.com",
+      "phone": "9876543210",
+      "role": "CUSTOMER",
+      "preferredLanguage": "en",
+      "location": {
+        "lat": 22.5792,
+        "lng": 88.4175,
+        "addressLabel": "Flat 4B Central"
+      },
+      "passwordHash": "b6b74186843fc72c1b1f8be3b589d31d0a2ea0b9e53c74aaa078e657ce478325"
+    },
+    {
+      "id": "usr-1791902854830",
+      "name": "Ananya Sen",
+      "email": "ananya.sen@example.com",
+      "phone": "",
+      "role": "CUSTOMER",
+      "preferredLanguage": "en",
+      "location": {
+        "lat": 22.5792,
+        "lng": 88.4175,
+        "addressLabel": ""
+      },
+      "passwordHash": "3daca53bd57a6465ad2fd9659648160e1df594764b48fffed3faf3c65cc6365b"
+    },
+    {
+      "id": "usr-1791907180556",
+      "name": "anwesha saha",
+      "email": "anwesha@gmail.com",
+      "phone": "8777650434",
+      "role": "WORKER",
+      "preferredLanguage": "en",
+      "location": {
+        "lat": 22.5792,
+        "lng": 88.4175,
+        "addressLabel": "Central Area"
+      },
+      "passwordHash": "d6f6c58cccedecc3029e337d62842e6a8187d969c7f230ee298ff1f3f4e9f5b6",
+      "workerId": "wrk-1791913391348"
+    }
+  ],
+  "workers": [
+    {
+      "id": "wrk-101",
+      "userId": "usr-wrk-1",
+      "name": "Subrata Mondal",
+      "phone": "+91 98305 11201",
+      "avatarInitials": "SM",
+      "category": "Plumber",
+      "skills": [
+        "Tap & Mixer Leak Repair",
+        "Pipe Blockage Clearing",
+        "Water Tank Fitting",
+        "Bathroom Sanitaryware"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Aadhaar + ITI Plumbing Trade Certificate",
+      "kycDocumentNumber": "WB-COOP-PLM-4829",
+      "kycSubmittedAt": "2026-10-01T09:00:00Z",
+      "kycReviewerNote": "Verified by Cooperative Society Committee",
+      "skillBadges": [
+        "Master Plumber",
+        "Sanitaryware Specialist"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-2",
+      "coordinates": {
+        "lat": 22.5768,
+        "lng": 88.4265,
+        "addressLabel": "Karunamoyee, Sector-2, Salt Lake"
+      },
+      "rating": 4.9,
+      "reviewCount": 43,
+      "baseRateInr": 450,
+      "completedJobsTotal": 43,
+      "completedJobsThisWeek": 2,
+      "grossEarningsInr": 19350,
+      "netEarningsInr": 17415,
+      "welfareContributionInr": 1935,
+      "reviews": [
+        {
+          "id": "rev-1791898608480-szwv",
+          "bookingId": "bkg-1791805187278",
+          "customerId": "usr-1791805144203",
+          "customerName": "Anwesha saha",
+          "rating": 5,
+          "review": "Prompt arrival, exceptional craftsmanship, and very polite!",
+          "createdAt": "2026-10-13T13:36:48.480Z"
+        }
+      ]
+    },
+    {
+      "id": "wrk-102",
+      "userId": "usr-wrk-2",
+      "name": "Rameshwar Yadav",
+      "phone": "+91 98309 77812",
+      "avatarInitials": "RY",
+      "category": "Plumber",
+      "skills": [
+        "Tap & Mixer Leak Repair",
+        "Pump Motor Valve",
+        "Pipe Blockage Clearing"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Voter ID + Municipal Plumber License",
+      "kycDocumentNumber": "WB-COOP-PLM-5190",
+      "kycSubmittedAt": "2026-10-02T11:30:00Z",
+      "kycReviewerNote": "Verified member",
+      "skillBadges": [
+        "Rapid Leak Repair"
+      ],
+      "isAvailable": true,
+      "shift": "Afternoon (12:00 - 16:00)",
+      "serviceZone": "Sector-1",
+      "coordinates": {
+        "lat": 22.5815,
+        "lng": 88.4122,
+        "addressLabel": "Labony Estate, Sector-1, Salt Lake"
+      },
+      "rating": 4.7,
+      "reviewCount": 28,
+      "baseRateInr": 400,
+      "completedJobsTotal": 28,
+      "completedJobsThisWeek": 3,
+      "grossEarningsInr": 11200,
+      "netEarningsInr": 10080,
+      "welfareContributionInr": 1120
+    },
+    {
+      "id": "wrk-103",
+      "userId": "usr-wrk-3",
+      "name": "Bikash Das",
+      "phone": "+91 98312 65400",
+      "avatarInitials": "BD",
+      "category": "Electrician",
+      "skills": [
+        "MCB & Fuse Repair",
+        "Ceiling Fan Installation",
+        "Switchboard Wiring",
+        "Inverter Setup",
+        "Appliance Earthing"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "WB Wireman Permit + Aadhaar",
+      "kycDocumentNumber": "WB-ELC-8831",
+      "kycSubmittedAt": "2026-10-01T10:00:00Z",
+      "kycReviewerNote": "Licensed Domestic Wireman",
+      "skillBadges": [
+        "Licensed Wireman",
+        "Inverter & MCB Pro"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-5",
+      "coordinates": {
+        "lat": 22.5745,
+        "lng": 88.4338,
+        "addressLabel": "College More, Sector-5, Salt Lake"
+      },
+      "rating": 4.9,
+      "reviewCount": 54,
+      "baseRateInr": 500,
+      "completedJobsTotal": 55,
+      "completedJobsThisWeek": 2,
+      "grossEarningsInr": 27500,
+      "netEarningsInr": 24750,
+      "welfareContributionInr": 2750
+    },
+    {
+      "id": "wrk-104",
+      "userId": "usr-wrk-4",
+      "name": "Debashis Roy",
+      "phone": "+91 98316 33091",
+      "avatarInitials": "DR",
+      "category": "Electrician",
+      "skills": [
+        "Ceiling Fan Installation",
+        "Switchboard Wiring",
+        "MCB & Fuse Repair"
+      ],
+      "verified": false,
+      "kycStatus": "PENDING_REVIEW",
+      "kycDocumentType": "Aadhaar + Trade Apprenticeship Certificate",
+      "kycDocumentNumber": "WB-ELC-9942",
+      "kycSubmittedAt": "2026-10-11T15:20:00Z",
+      "skillBadges": [
+        "Domestic Wiring"
+      ],
+      "isAvailable": true,
+      "shift": "Morning (08:00 - 12:00)",
+      "serviceZone": "Sector-3",
+      "coordinates": {
+        "lat": 22.581,
+        "lng": 88.419,
+        "addressLabel": "GD Market, Sector-3, Salt Lake"
+      },
+      "rating": 4.5,
+      "reviewCount": 9,
+      "baseRateInr": 420,
+      "completedJobsTotal": 9,
+      "completedJobsThisWeek": 0,
+      "grossEarningsInr": 3780,
+      "netEarningsInr": 3402,
+      "welfareContributionInr": 378
+    },
+    {
+      "id": "wrk-105",
+      "userId": "usr-wrk-5",
+      "name": "Tapan Karmakar",
+      "phone": "+91 98318 40922",
+      "avatarInitials": "TK",
+      "category": "Carpenter",
+      "skills": [
+        "Door Lock & Hinge Repair",
+        "Window Frame Fitting",
+        "Modular Cabinet Fix",
+        "Furniture Assembly"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Cooperative Artisan Card",
+      "kycDocumentNumber": "WB-CRP-3012",
+      "kycSubmittedAt": "2026-09-25T08:00:00Z",
+      "skillBadges": [
+        "Master Woodworker",
+        "Lock & Cabinet Specialist"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-3",
+      "coordinates": {
+        "lat": 22.5785,
+        "lng": 88.415,
+        "addressLabel": "FE Block, Sector-3, Salt Lake"
+      },
+      "rating": 4.8,
+      "reviewCount": 31,
+      "baseRateInr": 550,
+      "completedJobsTotal": 31,
+      "completedJobsThisWeek": 1,
+      "grossEarningsInr": 17050,
+      "netEarningsInr": 15345,
+      "welfareContributionInr": 1705
+    },
+    {
+      "id": "wrk-106",
+      "userId": "usr-wrk-6",
+      "name": "Shyamal Halder",
+      "phone": "+91 98311 55219",
+      "avatarInitials": "SH",
+      "category": "Painter",
+      "skills": [
+        "Interior Wall Painting",
+        "Dampness Waterproofing",
+        "Putty & Primer Touchup",
+        "Wood Polish & Varnish"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Aadhaar + Skill India Painter Certificate",
+      "kycDocumentNumber": "WB-PNT-7741",
+      "kycSubmittedAt": "2026-09-20T10:15:00Z",
+      "skillBadges": [
+        "Damp-Proof Specialist",
+        "Low-VOC Interior Finish"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-2",
+      "coordinates": {
+        "lat": 22.583,
+        "lng": 88.4235,
+        "addressLabel": "BJ Block, Sector-2, Salt Lake"
+      },
+      "rating": 4.8,
+      "reviewCount": 19,
+      "baseRateInr": 600,
+      "completedJobsTotal": 19,
+      "completedJobsThisWeek": 0,
+      "grossEarningsInr": 11400,
+      "netEarningsInr": 10260,
+      "welfareContributionInr": 1140
+    },
+    {
+      "id": "wrk-107",
+      "userId": "usr-wrk-7",
+      "name": "Mita Mukherjee",
+      "phone": "+91 98304 66701",
+      "avatarInitials": "MM",
+      "category": "Cleaner",
+      "skills": [
+        "Deep Kitchen Cleaning",
+        "Bathroom Sanitization",
+        "Sofa & Carpet Vacuum",
+        "Water Tank Cleaning"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Aadhaar + Women Cooperative SHG ID",
+      "kycDocumentNumber": "WB-SHG-CLN-1108",
+      "kycSubmittedAt": "2026-09-18T14:00:00Z",
+      "skillBadges": [
+        "Eco-Safe Sanitization",
+        "SHG Team Lead"
+      ],
+      "isAvailable": true,
+      "shift": "Morning (08:00 - 12:00)",
+      "serviceZone": "Sector-3",
+      "coordinates": {
+        "lat": 22.5802,
+        "lng": 88.421,
+        "addressLabel": "EE Block, Sector-3, Salt Lake"
+      },
+      "rating": 4.9,
+      "reviewCount": 47,
+      "baseRateInr": 500,
+      "completedJobsTotal": 47,
+      "completedJobsThisWeek": 2,
+      "grossEarningsInr": 23500,
+      "netEarningsInr": 21150,
+      "welfareContributionInr": 2350
+    },
+    {
+      "id": "wrk-108",
+      "userId": "usr-wrk-8",
+      "name": "Purnima Ghosh",
+      "phone": "+91 98307 88934",
+      "avatarInitials": "PG",
+      "category": "Babysitter",
+      "skills": [
+        "Infant Daycare Support",
+        "Toddler Meal & Play",
+        "After-School Supervision",
+        "First-Aid Certified Care"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Police Verification + Red Cross First-Aid ID",
+      "kycDocumentNumber": "WB-CARE-6021",
+      "kycSubmittedAt": "2026-09-29T12:00:00Z",
+      "skillBadges": [
+        "Police Verified",
+        "Pediatric First-Aid"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-1",
+      "coordinates": {
+        "lat": 22.5842,
+        "lng": 88.4095,
+        "addressLabel": "BD Block, Sector-1, Salt Lake"
+      },
+      "rating": 5,
+      "reviewCount": 34,
+      "baseRateInr": 650,
+      "completedJobsTotal": 34,
+      "completedJobsThisWeek": 1,
+      "grossEarningsInr": 22100,
+      "netEarningsInr": 19890,
+      "welfareContributionInr": 2210
+    },
+    {
+      "id": "wrk-109",
+      "userId": "usr-wrk-9",
+      "name": "Pradip Halder",
+      "phone": "+91 98308 12345",
+      "avatarInitials": "PH",
+      "category": "Plumber",
+      "skills": [
+        "Tap & Mixer Leak Repair",
+        "Pipe Blockage Clearing",
+        "Bathroom Sanitaryware"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Aadhaar + ITI Plumbing Certificate",
+      "kycDocumentNumber": "WB-COOP-PLM-6012",
+      "kycSubmittedAt": "2026-09-22T08:00:00Z",
+      "skillBadges": [
+        "Rapid Pipe Specialist"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-3",
+      "coordinates": {
+        "lat": 22.579,
+        "lng": 88.4215,
+        "addressLabel": "FD Block, Sector-3, Salt Lake"
+      },
+      "rating": 4.8,
+      "reviewCount": 35,
+      "baseRateInr": 450,
+      "completedJobsTotal": 35,
+      "completedJobsThisWeek": 1,
+      "grossEarningsInr": 15750,
+      "netEarningsInr": 14175,
+      "welfareContributionInr": 1575
+    },
+    {
+      "id": "wrk-110",
+      "userId": "usr-wrk-10",
+      "name": "Anup Majumder",
+      "phone": "+91 98319 54321",
+      "avatarInitials": "AM",
+      "category": "Plumber",
+      "skills": [
+        "Water Tank Fitting",
+        "Pipe Blockage Clearing",
+        "Bathroom Sanitaryware"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Municipal Trade Certificate",
+      "kycDocumentNumber": "WB-COOP-PLM-7104",
+      "kycSubmittedAt": "2026-09-24T11:00:00Z",
+      "skillBadges": [
+        "Tank & Booster Specialist"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-5",
+      "coordinates": {
+        "lat": 22.572,
+        "lng": 88.435,
+        "addressLabel": "Technopolis, Sector-5, Salt Lake"
+      },
+      "rating": 4.7,
+      "reviewCount": 22,
+      "baseRateInr": 420,
+      "completedJobsTotal": 22,
+      "completedJobsThisWeek": 0,
+      "grossEarningsInr": 9240,
+      "netEarningsInr": 8316,
+      "welfareContributionInr": 924
+    },
+    {
+      "id": "wrk-111",
+      "userId": "usr-wrk-11",
+      "name": "Kartik Naskar",
+      "phone": "+91 98302 98765",
+      "avatarInitials": "KN",
+      "category": "Plumber",
+      "skills": [
+        "Tap & Mixer Leak Repair",
+        "Water Tank Fitting",
+        "Pump Motor Valve"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Aadhaar + Municipal Plumber License",
+      "kycDocumentNumber": "WB-COOP-PLM-8041",
+      "kycSubmittedAt": "2026-09-28T09:30:00Z",
+      "skillBadges": [
+        "Master Sanitary Fitter"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-1",
+      "coordinates": {
+        "lat": 22.585,
+        "lng": 88.408,
+        "addressLabel": "BA Block, Sector-1, Salt Lake"
+      },
+      "rating": 4.9,
+      "reviewCount": 40,
+      "baseRateInr": 460,
+      "completedJobsTotal": 40,
+      "completedJobsThisWeek": 2,
+      "grossEarningsInr": 18400,
+      "netEarningsInr": 16560,
+      "welfareContributionInr": 1840
+    },
+    {
+      "id": "wrk-112",
+      "userId": "usr-wrk-12",
+      "name": "Soumen Bhowmick",
+      "phone": "+91 98315 22110",
+      "avatarInitials": "SB",
+      "category": "Electrician",
+      "skills": [
+        "MCB & Fuse Repair",
+        "Switchboard Wiring",
+        "Inverter Setup"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "WB Wireman Permit",
+      "kycDocumentNumber": "WB-ELC-7744",
+      "kycSubmittedAt": "2026-09-19T14:00:00Z",
+      "skillBadges": [
+        "Inverter & MCB Specialist"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-2",
+      "coordinates": {
+        "lat": 22.5775,
+        "lng": 88.425,
+        "addressLabel": "CK Block, Sector-2, Salt Lake"
+      },
+      "rating": 4.8,
+      "reviewCount": 29,
+      "baseRateInr": 480,
+      "completedJobsTotal": 29,
+      "completedJobsThisWeek": 1,
+      "grossEarningsInr": 13920,
+      "netEarningsInr": 12528,
+      "welfareContributionInr": 1392
+    },
+    {
+      "id": "wrk-113",
+      "userId": "usr-wrk-13",
+      "name": "Tapas Pal",
+      "phone": "+91 98303 66442",
+      "avatarInitials": "TP",
+      "category": "Electrician",
+      "skills": [
+        "Ceiling Fan Installation",
+        "Switchboard Wiring",
+        "Appliance Earthing"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "ITI Electrical Certificate",
+      "kycDocumentNumber": "WB-ELC-8190",
+      "kycSubmittedAt": "2026-09-25T10:00:00Z",
+      "skillBadges": [
+        "Domestic Appliance Expert"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-1",
+      "coordinates": {
+        "lat": 22.5835,
+        "lng": 88.411,
+        "addressLabel": "BC Block, Sector-1, Salt Lake"
+      },
+      "rating": 4.9,
+      "reviewCount": 38,
+      "baseRateInr": 500,
+      "completedJobsTotal": 38,
+      "completedJobsThisWeek": 2,
+      "grossEarningsInr": 19000,
+      "netEarningsInr": 17100,
+      "welfareContributionInr": 1900
+    },
+    {
+      "id": "wrk-114",
+      "userId": "usr-wrk-14",
+      "name": "Amitava Sengupta",
+      "phone": "+91 98317 88990",
+      "avatarInitials": "AS",
+      "category": "Electrician",
+      "skills": [
+        "MCB & Fuse Repair",
+        "Ceiling Fan Installation",
+        "Switchboard Wiring"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Skill India Electrical Card",
+      "kycDocumentNumber": "WB-ELC-9201",
+      "kycSubmittedAt": "2026-09-27T12:00:00Z",
+      "skillBadges": [
+        "Rapid Wiring Pro"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-3",
+      "coordinates": {
+        "lat": 22.5798,
+        "lng": 88.418,
+        "addressLabel": "GC Market, Sector-3, Salt Lake"
+      },
+      "rating": 4.6,
+      "reviewCount": 16,
+      "baseRateInr": 450,
+      "completedJobsTotal": 16,
+      "completedJobsThisWeek": 0,
+      "grossEarningsInr": 7200,
+      "netEarningsInr": 6480,
+      "welfareContributionInr": 720
+    },
+    {
+      "id": "wrk-115",
+      "userId": "usr-wrk-15",
+      "name": "Sanjoy Mistri",
+      "phone": "+91 98306 44332",
+      "avatarInitials": "SM",
+      "category": "Carpenter",
+      "skills": [
+        "Door Lock & Hinge Repair",
+        "Modular Cabinet Fix",
+        "Furniture Assembly"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Cooperative Artisan ID",
+      "kycDocumentNumber": "WB-CRP-4102",
+      "kycSubmittedAt": "2026-09-21T09:00:00Z",
+      "skillBadges": [
+        "Cabinet & Lock Specialist"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-2",
+      "coordinates": {
+        "lat": 22.58,
+        "lng": 88.424,
+        "addressLabel": "CL Block, Sector-2, Salt Lake"
+      },
+      "rating": 4.7,
+      "reviewCount": 24,
+      "baseRateInr": 520,
+      "completedJobsTotal": 24,
+      "completedJobsThisWeek": 1,
+      "grossEarningsInr": 12480,
+      "netEarningsInr": 11232,
+      "welfareContributionInr": 1248
+    },
+    {
+      "id": "wrk-116",
+      "userId": "usr-wrk-16",
+      "name": "Ashoke Sutradhar",
+      "phone": "+91 98310 11223",
+      "avatarInitials": "AS",
+      "category": "Carpenter",
+      "skills": [
+        "Door Lock & Hinge Repair",
+        "Window Frame Fitting",
+        "Furniture Assembly"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Cooperative Guild Card",
+      "kycDocumentNumber": "WB-CRP-5231",
+      "kycSubmittedAt": "2026-09-23T10:30:00Z",
+      "skillBadges": [
+        "Furniture Fitting Expert"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-1",
+      "coordinates": {
+        "lat": 22.582,
+        "lng": 88.414,
+        "addressLabel": "BB Block, Sector-1, Salt Lake"
+      },
+      "rating": 4.8,
+      "reviewCount": 30,
+      "baseRateInr": 550,
+      "completedJobsTotal": 30,
+      "completedJobsThisWeek": 2,
+      "grossEarningsInr": 16500,
+      "netEarningsInr": 14850,
+      "welfareContributionInr": 1650
+    },
+    {
+      "id": "wrk-117",
+      "userId": "usr-wrk-17",
+      "name": "Biswanath Barman",
+      "phone": "+91 98321 77665",
+      "avatarInitials": "BB",
+      "category": "Carpenter",
+      "skills": [
+        "Modular Cabinet Fix",
+        "Window Frame Fitting",
+        "Door Lock & Hinge Repair"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Artisan Board Registration",
+      "kycDocumentNumber": "WB-CRP-6340",
+      "kycSubmittedAt": "2026-09-25T11:00:00Z",
+      "skillBadges": [
+        "Modular Kitchen Pro"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-5",
+      "coordinates": {
+        "lat": 22.573,
+        "lng": 88.431,
+        "addressLabel": "Webel More, Sector-5, Salt Lake"
+      },
+      "rating": 4.9,
+      "reviewCount": 41,
+      "baseRateInr": 580,
+      "completedJobsTotal": 41,
+      "completedJobsThisWeek": 1,
+      "grossEarningsInr": 23780,
+      "netEarningsInr": 21402,
+      "welfareContributionInr": 2378
+    },
+    {
+      "id": "wrk-118",
+      "userId": "usr-wrk-18",
+      "name": "Ranjit Paul",
+      "phone": "+91 98314 55443",
+      "avatarInitials": "RP",
+      "category": "Carpenter",
+      "skills": [
+        "Furniture Assembly",
+        "Door Lock & Hinge Repair",
+        "Window Frame Fitting"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Skill India Certificate",
+      "kycDocumentNumber": "WB-CRP-7411",
+      "kycSubmittedAt": "2026-09-26T15:00:00Z",
+      "skillBadges": [
+        "Precision Assembly Pro"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-3",
+      "coordinates": {
+        "lat": 22.576,
+        "lng": 88.417,
+        "addressLabel": "HB Block, Sector-3, Salt Lake"
+      },
+      "rating": 4.6,
+      "reviewCount": 18,
+      "baseRateInr": 500,
+      "completedJobsTotal": 18,
+      "completedJobsThisWeek": 0,
+      "grossEarningsInr": 9000,
+      "netEarningsInr": 8100,
+      "welfareContributionInr": 900
+    },
+    {
+      "id": "wrk-119",
+      "userId": "usr-wrk-19",
+      "name": "Alok Karmakar",
+      "phone": "+91 98322 33445",
+      "avatarInitials": "AK",
+      "category": "Painter",
+      "skills": [
+        "Interior Wall Painting",
+        "Putty & Primer Touchup",
+        "Dampness Waterproofing"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Cooperative Guild Certificate",
+      "kycDocumentNumber": "WB-PNT-8102",
+      "kycSubmittedAt": "2026-09-20T08:30:00Z",
+      "skillBadges": [
+        "Interior Wall Specialist"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-3",
+      "coordinates": {
+        "lat": 22.5788,
+        "lng": 88.4195,
+        "addressLabel": "FC Block, Sector-3, Salt Lake"
+      },
+      "rating": 4.7,
+      "reviewCount": 21,
+      "baseRateInr": 580,
+      "completedJobsTotal": 21,
+      "completedJobsThisWeek": 1,
+      "grossEarningsInr": 12180,
+      "netEarningsInr": 10962,
+      "welfareContributionInr": 1218
+    },
+    {
+      "id": "wrk-120",
+      "userId": "usr-wrk-20",
+      "name": "Nirmal Sen",
+      "phone": "+91 98301 99887",
+      "avatarInitials": "NS",
+      "category": "Painter",
+      "skills": [
+        "Interior Wall Painting",
+        "Wood Polish & Varnish",
+        "Putty & Primer Touchup"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Trade Association Card",
+      "kycDocumentNumber": "WB-PNT-9045",
+      "kycSubmittedAt": "2026-09-22T09:00:00Z",
+      "skillBadges": [
+        "Wood Finish & Texture Pro"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-1",
+      "coordinates": {
+        "lat": 22.5825,
+        "lng": 88.413,
+        "addressLabel": "CA Block, Sector-1, Salt Lake"
+      },
+      "rating": 4.8,
+      "reviewCount": 27,
+      "baseRateInr": 620,
+      "completedJobsTotal": 27,
+      "completedJobsThisWeek": 2,
+      "grossEarningsInr": 16740,
+      "netEarningsInr": 15066,
+      "welfareContributionInr": 1674
+    },
+    {
+      "id": "wrk-121",
+      "userId": "usr-wrk-21",
+      "name": "Dipak Mondal",
+      "phone": "+91 98313 77889",
+      "avatarInitials": "DM",
+      "category": "Painter",
+      "skills": [
+        "Dampness Waterproofing",
+        "Interior Wall Painting",
+        "Wood Polish & Varnish"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Aadhaar + Skill Certificate",
+      "kycDocumentNumber": "WB-PNT-9912",
+      "kycSubmittedAt": "2026-09-24T10:00:00Z",
+      "skillBadges": [
+        "Waterproofing Master"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-5",
+      "coordinates": {
+        "lat": 22.575,
+        "lng": 88.432,
+        "addressLabel": "Godrej Waterside, Sector-5, Salt Lake"
+      },
+      "rating": 4.9,
+      "reviewCount": 33,
+      "baseRateInr": 600,
+      "completedJobsTotal": 33,
+      "completedJobsThisWeek": 1,
+      "grossEarningsInr": 19800,
+      "netEarningsInr": 17820,
+      "welfareContributionInr": 1980
+    },
+    {
+      "id": "wrk-122",
+      "userId": "usr-wrk-22",
+      "name": "Goutam Roy",
+      "phone": "+91 98325 66778",
+      "avatarInitials": "GR",
+      "category": "Painter",
+      "skills": [
+        "Interior Wall Painting",
+        "Putty & Primer Touchup"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Cooperative Card",
+      "kycDocumentNumber": "WB-PNT-1044",
+      "kycSubmittedAt": "2026-09-26T11:00:00Z",
+      "skillBadges": [
+        "Wall Primer Touchup"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-2",
+      "coordinates": {
+        "lat": 22.581,
+        "lng": 88.4255,
+        "addressLabel": "BL Block, Sector-2, Salt Lake"
+      },
+      "rating": 4.6,
+      "reviewCount": 15,
+      "baseRateInr": 550,
+      "completedJobsTotal": 15,
+      "completedJobsThisWeek": 0,
+      "grossEarningsInr": 8250,
+      "netEarningsInr": 7425,
+      "welfareContributionInr": 825
+    },
+    {
+      "id": "wrk-123",
+      "userId": "usr-wrk-23",
+      "name": "Sunita Mahato",
+      "phone": "+91 98305 88776",
+      "avatarInitials": "SM",
+      "category": "Cleaner",
+      "skills": [
+        "Deep Kitchen Cleaning",
+        "Bathroom Sanitization",
+        "Water Tank Cleaning"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "SHG Member ID",
+      "kycDocumentNumber": "WB-SHG-CLN-2210",
+      "kycSubmittedAt": "2026-09-19T09:00:00Z",
+      "skillBadges": [
+        "Deep Sanitization Lead"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-2",
+      "coordinates": {
+        "lat": 22.577,
+        "lng": 88.427,
+        "addressLabel": "CJ Block, Sector-2, Salt Lake"
+      },
+      "rating": 4.9,
+      "reviewCount": 52,
+      "baseRateInr": 480,
+      "completedJobsTotal": 52,
+      "completedJobsThisWeek": 2,
+      "grossEarningsInr": 24960,
+      "netEarningsInr": 22464,
+      "welfareContributionInr": 2496
+    },
+    {
+      "id": "wrk-124",
+      "userId": "usr-wrk-24",
+      "name": "Gita Das",
+      "phone": "+91 98318 99001",
+      "avatarInitials": "GD",
+      "category": "Cleaner",
+      "skills": [
+        "Bathroom Sanitization",
+        "Sofa & Carpet Vacuum",
+        "Deep Kitchen Cleaning"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "SHG Member ID",
+      "kycDocumentNumber": "WB-SHG-CLN-3341",
+      "kycSubmittedAt": "2026-09-21T10:00:00Z",
+      "skillBadges": [
+        "Carpet & Sofa Vacuum Specialist"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-1",
+      "coordinates": {
+        "lat": 22.583,
+        "lng": 88.4115,
+        "addressLabel": "BE Block, Sector-1, Salt Lake"
+      },
+      "rating": 4.8,
+      "reviewCount": 36,
+      "baseRateInr": 500,
+      "completedJobsTotal": 36,
+      "completedJobsThisWeek": 1,
+      "grossEarningsInr": 18000,
+      "netEarningsInr": 16200,
+      "welfareContributionInr": 1800
+    },
+    {
+      "id": "wrk-125",
+      "userId": "usr-wrk-25",
+      "name": "Rajesh Balmiki",
+      "phone": "+91 98309 33221",
+      "avatarInitials": "RB",
+      "category": "Cleaner",
+      "skills": [
+        "Water Tank Cleaning",
+        "Bathroom Sanitization",
+        "Deep Kitchen Cleaning"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Municipal Sanitation Permit",
+      "kycDocumentNumber": "WB-CLN-4412",
+      "kycSubmittedAt": "2026-09-23T11:00:00Z",
+      "skillBadges": [
+        "Overhead Tank Cleaning Pro"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-5",
+      "coordinates": {
+        "lat": 22.574,
+        "lng": 88.4345,
+        "addressLabel": "RDB Boulevard, Sector-5, Salt Lake"
+      },
+      "rating": 4.7,
+      "reviewCount": 28,
+      "baseRateInr": 450,
+      "completedJobsTotal": 28,
+      "completedJobsThisWeek": 0,
+      "grossEarningsInr": 12600,
+      "netEarningsInr": 11340,
+      "welfareContributionInr": 1260
+    },
+    {
+      "id": "wrk-126",
+      "userId": "usr-wrk-26",
+      "name": "Anita Barui",
+      "phone": "+91 98317 44556",
+      "avatarInitials": "AB",
+      "category": "Cleaner",
+      "skills": [
+        "Deep Kitchen Cleaning",
+        "Bathroom Sanitization",
+        "Sofa & Carpet Vacuum"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "SHG Member ID",
+      "kycDocumentNumber": "WB-SHG-CLN-5520",
+      "kycSubmittedAt": "2026-09-25T14:00:00Z",
+      "skillBadges": [
+        "Eco Sanitization Expert"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-3",
+      "coordinates": {
+        "lat": 22.5805,
+        "lng": 88.4185,
+        "addressLabel": "HA Block, Sector-3, Salt Lake"
+      },
+      "rating": 4.8,
+      "reviewCount": 44,
+      "baseRateInr": 520,
+      "completedJobsTotal": 44,
+      "completedJobsThisWeek": 2,
+      "grossEarningsInr": 22880,
+      "netEarningsInr": 20592,
+      "welfareContributionInr": 2288
+    },
+    {
+      "id": "wrk-127",
+      "userId": "usr-wrk-27",
+      "name": "Sampa Sarkar",
+      "phone": "+91 98320 11335",
+      "avatarInitials": "SS",
+      "category": "Babysitter",
+      "skills": [
+        "Infant Daycare Support",
+        "Toddler Meal & Play",
+        "First-Aid Certified Care"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Police Verification + Red Cross Care ID",
+      "kycDocumentNumber": "WB-CARE-7102",
+      "kycSubmittedAt": "2026-09-22T08:00:00Z",
+      "skillBadges": [
+        "Police Verified",
+        "Pediatric Nutrition"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-2",
+      "coordinates": {
+        "lat": 22.578,
+        "lng": 88.426,
+        "addressLabel": "BK Block, Sector-2, Salt Lake"
+      },
+      "rating": 4.9,
+      "reviewCount": 26,
+      "baseRateInr": 600,
+      "completedJobsTotal": 26,
+      "completedJobsThisWeek": 1,
+      "grossEarningsInr": 15600,
+      "netEarningsInr": 14040,
+      "welfareContributionInr": 1560
+    },
+    {
+      "id": "wrk-128",
+      "userId": "usr-wrk-28",
+      "name": "Rupa Chakraborty",
+      "phone": "+91 98307 22446",
+      "avatarInitials": "RC",
+      "category": "Babysitter",
+      "skills": [
+        "After-School Supervision",
+        "Toddler Meal & Play",
+        "First-Aid Certified Care"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Police Verification + ECCE Certificate",
+      "kycDocumentNumber": "WB-CARE-8214",
+      "kycSubmittedAt": "2026-09-24T09:30:00Z",
+      "skillBadges": [
+        "Certified Early Childhood Care"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-3",
+      "coordinates": {
+        "lat": 22.5812,
+        "lng": 88.4205,
+        "addressLabel": "IA Block, Sector-3, Salt Lake"
+      },
+      "rating": 5,
+      "reviewCount": 39,
+      "baseRateInr": 650,
+      "completedJobsTotal": 39,
+      "completedJobsThisWeek": 2,
+      "grossEarningsInr": 25350,
+      "netEarningsInr": 22815,
+      "welfareContributionInr": 2535
+    },
+    {
+      "id": "wrk-129",
+      "userId": "usr-wrk-29",
+      "name": "Rekha Khatun",
+      "phone": "+91 98311 88992",
+      "avatarInitials": "RK",
+      "category": "Babysitter",
+      "skills": [
+        "Infant Daycare Support",
+        "Toddler Meal & Play",
+        "After-School Supervision"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Police Verification ID",
+      "kycDocumentNumber": "WB-CARE-9305",
+      "kycSubmittedAt": "2026-09-26T10:00:00Z",
+      "skillBadges": [
+        "Police Verified",
+        "Infant Care Specialist"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-1",
+      "coordinates": {
+        "lat": 22.5818,
+        "lng": 88.4135,
+        "addressLabel": "BF Block, Sector-1, Salt Lake"
+      },
+      "rating": 4.8,
+      "reviewCount": 22,
+      "baseRateInr": 580,
+      "completedJobsTotal": 22,
+      "completedJobsThisWeek": 0,
+      "grossEarningsInr": 12760,
+      "netEarningsInr": 11484,
+      "welfareContributionInr": 1276
+    },
+    {
+      "id": "wrk-130",
+      "userId": "usr-wrk-30",
+      "name": "Maya Bauri",
+      "phone": "+91 98324 55667",
+      "avatarInitials": "MB",
+      "category": "Babysitter",
+      "skills": [
+        "Toddler Meal & Play",
+        "After-School Supervision",
+        "First-Aid Certified Care"
+      ],
+      "verified": true,
+      "kycStatus": "VERIFIED",
+      "kycDocumentType": "Red Cross First-Aid ID",
+      "kycDocumentNumber": "WB-CARE-9910",
+      "kycSubmittedAt": "2026-09-28T12:00:00Z",
+      "skillBadges": [
+        "Emergency First-Aid Care"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-5",
+      "coordinates": {
+        "lat": 22.5735,
+        "lng": 88.4325,
+        "addressLabel": "DLF 1, Sector-5, Salt Lake"
+      },
+      "rating": 4.7,
+      "reviewCount": 19,
+      "baseRateInr": 550,
+      "completedJobsTotal": 19,
+      "completedJobsThisWeek": 1,
+      "grossEarningsInr": 10450,
+      "netEarningsInr": 9405,
+      "welfareContributionInr": 1045
+    },
+    {
+      "id": "wrk-1791877359995",
+      "userId": "usr-1791877359995",
+      "name": "Priya Chakraborty",
+      "phone": "9830112233",
+      "avatarInitials": "PC",
+      "category": "Plumber",
+      "skills": [
+        "Tap & Mixer Leak Repair",
+        "Pipe Blockage Clearing",
+        "Water Tank Fitting"
+      ],
+      "verified": false,
+      "kycStatus": "NOT_SUBMITTED",
+      "skillBadges": [
+        "Registered Cooperative Applicant"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Sector-3, Salt Lake",
+      "coordinates": {
+        "lat": 22.581,
+        "lng": 88.42,
+        "addressLabel": "Sector-3, Salt Lake"
+      },
+      "rating": 4.5,
+      "reviewCount": 0,
+      "baseRateInr": 450,
+      "completedJobsTotal": 0,
+      "completedJobsThisWeek": 0,
+      "grossEarningsInr": 0,
+      "netEarningsInr": 0,
+      "welfareContributionInr": 0
+    },
+    {
+      "id": "wrk-1791913391348",
+      "userId": "usr-1791907180556",
+      "name": "anwesha saha",
+      "phone": "8777650434",
+      "avatarInitials": "AS",
+      "category": "Painter",
+      "skills": [
+        "Interior Wall Painting",
+        "Dampness Waterproofing",
+        "Wood Polish & Varnish"
+      ],
+      "verified": false,
+      "kycStatus": "NOT_SUBMITTED",
+      "skillBadges": [
+        "Registered Cooperative Applicant"
+      ],
+      "isAvailable": true,
+      "shift": "Full Day (08:00 - 20:00)",
+      "serviceZone": "Central Area",
+      "coordinates": {
+        "lat": 22.5792,
+        "lng": 88.4175,
+        "addressLabel": "Central Area"
+      },
+      "rating": 4.5,
+      "reviewCount": 0,
+      "baseRateInr": 450,
+      "completedJobsTotal": 0,
+      "completedJobsThisWeek": 0,
+      "grossEarningsInr": 0,
+      "netEarningsInr": 0,
+      "welfareContributionInr": 0
+    }
+  ],
+  "bookings": [
+    {
+      "id": "bkg-1791805187278",
+      "bookingReference": "HN-2026-1001",
+      "customerId": "usr-1791805144203",
+      "customerName": "Anwesha saha",
+      "customerPhone": "8777650434",
+      "customerLocation": {
+        "lat": 22.5792,
+        "lng": 88.4175,
+        "addressLabel": "ichapur"
+      },
+      "workerId": "wrk-101",
+      "workerName": "Subrata Mondal",
+      "workerPhone": "+91 98305 11201",
+      "workerCategory": "Plumber",
+      "workerCoordinates": {
+        "lat": 22.5768,
+        "lng": 88.4265,
+        "addressLabel": "Karunamoyee, Sector-2, Salt Lake"
+      },
+      "requiredSkills": [
+        "Tap & Mixer Leak Repair"
+      ],
+      "problemDescription": "for tap leaking",
+      "preferredDate": "2026-10-12",
+      "preferredTimeSlot": "Afternoon (12:00 - 16:00)",
+      "urgency": "STANDARD",
+      "additionalInstructions": "",
+      "status": "COMPLETED",
+      "matchingScore": 91.2,
+      "dispatchBreakdown": {
+        "proximityScore": 91,
+        "skillScore": 100,
+        "fairnessScore": 81,
+        "weightedTotal": 91.2,
+        "distanceKm": 0.96,
+        "matchedSkills": [
+          "Tap & Mixer Leak Repair"
+        ],
+        "missingSkills": [],
+        "explanation": "0.96 km from customer (Sector-2); matches 1/1 requested skills; KYC verified by Cooperative Society; 1 job(s) assigned this week (Fairness 81/100)."
+      },
+      "amountInr": 450,
+      "workerShareInr": 405,
+      "welfareShareInr": 45,
+      "paymentStatus": "PAID",
+      "createdAt": "2026-10-12T11:39:47.278Z",
+      "updatedAt": "2026-10-13T13:36:48.480Z",
+      "razorpayOrderId": "order_sih2026_HN20261001_87445",
+      "paymentMethod": "CASH",
+      "razorpayPaymentId": "cash_sih2026_05293271",
+      "settledAt": "2026-10-12T11:41:33.271Z",
+      "rating": 5,
+      "review": "Prompt arrival, exceptional craftsmanship, and very polite!",
+      "isRated": true,
+      "ratedAt": "2026-10-13T13:36:48.480Z"
+    },
+    {
+      "id": "bkg-1791809269342",
+      "bookingReference": "HN-2026-1002",
+      "customerId": "usr-1791805144203",
+      "customerName": "Anwesha saha",
+      "customerPhone": "8777650434",
+      "customerLocation": {
+        "lat": 22.5792,
+        "lng": 88.4175,
+        "addressLabel": "ichapur"
+      },
+      "workerId": "wrk-103",
+      "workerName": "Bikash Das",
+      "workerPhone": "+91 98312 65400",
+      "workerCategory": "Electrician",
+      "workerCoordinates": {
+        "lat": 22.5745,
+        "lng": 88.4338,
+        "addressLabel": "College More, Sector-5, Salt Lake"
+      },
+      "requiredSkills": [
+        "Ceiling Fan Installation"
+      ],
+      "problemDescription": "celling fan installantion",
+      "preferredDate": "2026-10-12",
+      "preferredTimeSlot": "Afternoon (12:00 - 16:00)",
+      "urgency": "STANDARD",
+      "additionalInstructions": "",
+      "status": "COMPLETED",
+      "matchingScore": 88.1,
+      "dispatchBreakdown": {
+        "proximityScore": 84,
+        "skillScore": 100,
+        "fairnessScore": 81,
+        "weightedTotal": 88.1,
+        "distanceKm": 1.75,
+        "matchedSkills": [
+          "Ceiling Fan Installation"
+        ],
+        "missingSkills": [],
+        "explanation": "1.75 km from customer (Sector-5); matches 1/1 requested skills; KYC verified by Cooperative Society; 1 job(s) assigned this week (Fairness 81/100)."
+      },
+      "amountInr": 500,
+      "workerShareInr": 450,
+      "welfareShareInr": 50,
+      "paymentStatus": "PAID",
+      "createdAt": "2026-10-12T12:47:49.342Z",
+      "updatedAt": "2026-10-12T12:48:58.559Z",
+      "razorpayOrderId": "order_sih2026_HN20261002_38028",
+      "paymentMethod": "CASH",
+      "razorpayPaymentId": "cash_sih2026_09338559",
+      "settledAt": "2026-10-12T12:48:58.559Z"
+    },
+    {
+      "id": "bkg-1791877249544",
+      "bookingReference": "HN-2026-1003",
+      "customerId": "usr-1791877119944",
+      "customerName": "Anwesha Saha",
+      "customerPhone": "+919038655399",
+      "customerLocation": {
+        "lat": 22.8154,
+        "lng": 88.3744,
+        "addressLabel": "Metal and Steel Factory, Bhatpara, Kolkata Metropolitan Area"
+      },
+      "workerId": "wrk-113",
+      "assignedWorkerId": "wrk-113",
+      "workerName": "Tapas Pal",
+      "workerPhone": "+91 98303 66442",
+      "workerCategory": "Electrician",
+      "workerCoordinates": {
+        "lat": 22.5835,
+        "lng": 88.411,
+        "addressLabel": "BC Block, Sector-1, Salt Lake"
+      },
+      "requiredSkills": [
+        "MCB & Fuse Repair"
+      ],
+      "problemDescription": "MCB REPAIR",
+      "problemMediaUrls": [],
+      "preferredDate": "2026-10-13",
+      "preferredTimeSlot": "Afternoon (12:00 - 16:00)",
+      "urgency": "STANDARD",
+      "additionalInstructions": "",
+      "status": "PENDING",
+      "matchingScore": 32.8,
+      "dispatchBreakdown": {
+        "proximityScore": 0,
+        "skillScore": 65,
+        "fairnessScore": 53,
+        "weightedTotal": 32.8,
+        "distanceKm": 26.06,
+        "matchedSkills": [],
+        "missingSkills": [
+          "MCB & Fuse Repair"
+        ],
+        "explanation": "Available worker with matching skills and fewer recent assignments (2 jobs this week; 26.1 km away (Sector-1))."
+      },
+      "amountInr": 500,
+      "workerShareInr": 450,
+      "welfareShareInr": 50,
+      "priceBreakdown": {
+        "baseLaborInr": 500,
+        "materialsInr": 0,
+        "materialsDescription": "",
+        "urgencySurchargeInr": 0,
+        "additionalChargesInr": 0,
+        "totalInr": 500,
+        "isEstimate": true,
+        "notes": "Estimated pricing based on cooperative trade standard rate. Final cost subject to on-site scope and customer approval."
+      },
+      "isPriceEstimate": true,
+      "paymentStatus": "UNPAID",
+      "realTimeDelivered": false,
+      "deliveryStatus": "STORED_PENDING_RECONNECT",
+      "createdAt": "2026-10-13T07:40:49.544Z",
+      "updatedAt": "2026-10-13T07:41:47.709Z",
+      "paymentMethod": "CASH"
+    },
+    {
+      "id": "bkg-1791877373044",
+      "bookingReference": "HN-2026-1004",
+      "customerId": "usr-1791877373018",
+      "customerName": "Anwesha Saha",
+      "customerPhone": "9830445566",
+      "customerLocation": {
+        "lat": 22.582,
+        "lng": 88.421,
+        "addressLabel": "HB Block, Sector-3, Salt Lake"
+      },
+      "workerId": "wrk-1791877359995",
+      "assignedWorkerId": "wrk-1791877359995",
+      "workerName": "Priya Chakraborty",
+      "workerPhone": "9830112233",
+      "workerCategory": "Plumber",
+      "workerCoordinates": {
+        "lat": 22.581,
+        "lng": 88.42,
+        "addressLabel": "Sector-3, Salt Lake"
+      },
+      "requiredSkills": [
+        "Pipe Leak Repair"
+      ],
+      "problemDescription": "Kitchen sink pipeline is dripping heavily",
+      "problemMediaUrls": [],
+      "preferredDate": "2026-10-15",
+      "preferredTimeSlot": "Morning (08:00 - 12:00)",
+      "urgency": "STANDARD",
+      "additionalInstructions": "",
+      "status": "ACCEPTED",
+      "matchingScore": 84.6,
+      "dispatchBreakdown": {
+        "proximityScore": 99,
+        "skillScore": 50,
+        "fairnessScore": 100,
+        "weightedTotal": 84.6,
+        "distanceKm": 0.15,
+        "matchedSkills": [],
+        "missingSkills": [
+          "Pipe Leak Repair"
+        ],
+        "explanation": "Available worker with matching skills and fewer recent assignments (0 jobs this week; 0.1 km away (Sector-3, Salt Lake)) (New cooperative member — equal rotation priority applied)."
+      },
+      "amountInr": 450,
+      "workerShareInr": 405,
+      "welfareShareInr": 45,
+      "priceBreakdown": {
+        "baseLaborInr": 450,
+        "materialsInr": 0,
+        "materialsDescription": "",
+        "urgencySurchargeInr": 0,
+        "additionalChargesInr": 0,
+        "totalInr": 450,
+        "isEstimate": true,
+        "notes": "Estimated pricing based on cooperative trade standard rate. Final cost subject to on-site scope and customer approval."
+      },
+      "isPriceEstimate": true,
+      "paymentStatus": "PAID",
+      "realTimeDelivered": false,
+      "deliveryStatus": "STORED_PENDING_RECONNECT",
+      "createdAt": "2026-10-13T07:42:53.044Z",
+      "updatedAt": "2026-10-13T17:15:44.585Z"
+    }
+  ],
+  "problemReports": [],
+  "welfareLedger": [
+    {
+      "id": "led-1791809338559",
+      "bookingId": "bkg-1791809269342",
+      "bookingReference": "HN-2026-1002",
+      "workerId": "wrk-103",
+      "workerName": "Bikash Das",
+      "customerName": "Anwesha saha",
+      "grossAmountInr": 500,
+      "workerNetInr": 450,
+      "welfareContributionInr": 50,
+      "paymentId": "cash_sih2026_09338559",
+      "paymentMode": "COOPERATIVE_TEST_VERIFIED",
+      "timestamp": "2026-10-12T12:48:58.559Z"
+    },
+    {
+      "id": "led-1791805293271",
+      "bookingId": "bkg-1791805187278",
+      "bookingReference": "HN-2026-1001",
+      "workerId": "wrk-101",
+      "workerName": "Subrata Mondal",
+      "customerName": "Anwesha saha",
+      "grossAmountInr": 450,
+      "workerNetInr": 405,
+      "welfareContributionInr": 45,
+      "paymentId": "cash_sih2026_05293271",
+      "paymentMode": "COOPERATIVE_TEST_VERIFIED",
+      "timestamp": "2026-10-12T11:41:33.271Z"
+    }
+  ],
+  "activeSessions": {
+    "676e86223ea0a4ae2690d3e5bd64ae70a8d33bc710aa39c9.usr-1791805144203.CUSTOMER.11b0fc049f8ef79f79458a4facd7a239d83e756f969e2539c62bde9ad488a551": {
+      "userId": "usr-1791805144203",
+      "role": "CUSTOMER",
+      "expiresAt": 1792413340855
+    },
+    "0622090de40f6afa0e550be4a3e5ee74cf194fd52f97513a.usr-1791812448503.CUSTOMER.59a4f4a37eb4c5d485545be817db7a5964150a98551021bb7eda9aaa02d9abed": {
+      "userId": "usr-1791812448503",
+      "role": "CUSTOMER",
+      "expiresAt": 1792417248504
+    },
+    "0998de87c8d5493a56cc554b7989e0907af8bfca0f7de26e.usr-wrk-1.WORKER.4c54bc2cfa73f5d6b824356373219821454ec7441f6a4b2c98129e4085d04c66": {
+      "userId": "usr-wrk-1",
+      "role": "WORKER",
+      "expiresAt": 1792418062011
+    },
+    "e66912766ccb68cef644f8bfa32cd4fb802b82c2597ee009.usr-1791805144203.CUSTOMER.8ae4f83da1c40e32836b7c9e4fc3262a7be4fad2534897b80164cb3da91f99a4": {
+      "userId": "usr-1791805144203",
+      "role": "CUSTOMER",
+      "expiresAt": 1792418071685
+    },
+    "bebfa03498d93c1bc7f1ea7de3bdaa906a6ce6e71c017329.usr-1791831681720.CUSTOMER.bf73faa6b64d02fe71fce50944b3913d38f4c9e4ec35d6a1e0467068a423fbb1": {
+      "userId": "usr-1791831681720",
+      "role": "CUSTOMER",
+      "expiresAt": 1792436481721
+    },
+    "43b8728a304bd4755109fb096475256c7d76cfcbf0121a22.usr-wrk-1.WORKER.b8e42da9d35aace0f27b017466ee0bc600e191e1ec2f5742034e090a3a134f67": {
+      "userId": "usr-wrk-1",
+      "role": "WORKER",
+      "expiresAt": 1792437212758
+    },
+    "627b31f03d6666aee451665759d98228322578d3f1d7dda8.usr-1791877119944.CUSTOMER.4a4ce5e4352ad8c079077d9fe3086ec046be161b7c144dcec593343ffb842bef": {
+      "userId": "usr-1791877119944",
+      "role": "CUSTOMER",
+      "expiresAt": 1792481919945
+    },
+    "489cb7604cb52ece024f51a905b133ddb9b9af07155b7d0c.usr-1791877359995.WORKER.e1d1cd1bc1c161d362933890d31e1f1e3a00adc5983a367cf4d901a15cdebc3c": {
+      "userId": "usr-1791877359995",
+      "role": "WORKER",
+      "expiresAt": 1792482159995
+    },
+    "bc369c16f9d35e03cf4e6868abd057427efc4af8237a7cc1.usr-1791877359995.WORKER.f1ef12d5365442697b72a74f326ed1d63c6b32b4b3de424ce66fb3f77b763ade": {
+      "userId": "usr-1791877359995",
+      "role": "WORKER",
+      "expiresAt": 1792482172997
+    },
+    "5b9f6bf48f685524d3a7cb69999ec7465f3377d42c189e65.usr-1791877373018.CUSTOMER.0e052a9ceb221966c8311b799cf2c3995561003231ab5129efbafddb2db0c7ad": {
+      "userId": "usr-1791877373018",
+      "role": "CUSTOMER",
+      "expiresAt": 1792482173018
+    },
+    "b1c407457d1a3ccd82c1a01d649169bd1e730aed4994222e.usr-wrk-1.WORKER.74ecc753bba3abb7ec38f5d5d3e21f68aed1cde6ea0789c617798d93d636e05a": {
+      "userId": "usr-wrk-1",
+      "role": "WORKER",
+      "expiresAt": 1792484221735
+    },
+    "c47a20effc91fca90a415bcd582b953ab12f1b909efe2418.usr-wrk-1.WORKER.f9f94f6ee558e8e871c8c6dda418063413057c1eeb0cf8648625bb28e9f1dd3d": {
+      "userId": "usr-wrk-1",
+      "role": "WORKER",
+      "expiresAt": 1792484251500
+    },
+    "3e01e1229896b2798818220a21df17cb6ca5a25cadc1a2b0.usr-wrk-1.WORKER.3d418424f2915a35d81833c11d5f3b564ba6dd0f208e13e23584dcd6bf27fd2a": {
+      "userId": "usr-wrk-1",
+      "role": "WORKER",
+      "expiresAt": 1792484257988
+    },
+    "dd26677a6514457857ea61bac15210821663c4b44057baf6.usr-wrk-1.WORKER.5b53ae7e452c65960cf859b886c333b7b89f9c65e386a7b08373271798fda9e1": {
+      "userId": "usr-wrk-1",
+      "role": "WORKER",
+      "expiresAt": 1792484291454
+    },
+    "05804988b58f2201f7d44a66b419d038b6fc8c50e6047d10.usr-1791898568622.CUSTOMER.412e08f51af49d60541e892a1230081d3786ea3578899222b38fc16928ec261e": {
+      "userId": "usr-1791898568622",
+      "role": "CUSTOMER",
+      "expiresAt": 1792503368622
+    },
+    "7d382209b709e44145f80e0ab072a051cdd367f6c16f5afb.usr-admin-1.ADMIN.87252766778721c82345539e20f30ea2f1db427b63f27941f41e304e1054deb0": {
+      "userId": "usr-admin-1",
+      "role": "ADMIN",
+      "expiresAt": 1792503387390
+    },
+    "3948cfb2c17229c615dff2a5176d0af180f7a1eb092e7ab9.usr-1791805144203.CUSTOMER.fb584711168ec1e3eeda162e9e2398a6ed798bd5630ad6427829e713cc6612d5": {
+      "userId": "usr-1791805144203",
+      "role": "CUSTOMER",
+      "expiresAt": 1792503403381
+    },
+    "a5ce6874067127b6884e31377f72817468a0c1d215d68d43.usr-wrk-1.WORKER.02080b408e07d0958c936d27f977a5845a9b145b7fabc52104bb511a230dbdf2": {
+      "userId": "usr-wrk-1",
+      "role": "WORKER",
+      "expiresAt": 1792503431788
+    },
+    "143778a31073b8c790f1c6ba0fe6936e7cdc315c000a2ccd.usr-1791902854830.CUSTOMER.cf53c404f31f46bfea6a99f28496e58fcbfc746dbadb9a3cd9fedde441037477": {
+      "userId": "usr-1791902854830",
+      "role": "CUSTOMER",
+      "expiresAt": 1792507654832
+    },
+    "ded0086e0d001f845405bd11f15b2d4835bc34d2f1f268e8.usr-wrk-1.WORKER.0d1bd502e65d2fd6dcc2a30f9149593dceaaaa4d66f76ef4c80da77a8c02d3ae": {
+      "userId": "usr-wrk-1",
+      "role": "WORKER",
+      "expiresAt": 1792509712897
+    },
+    "eecc6a3975394cf24a5509f7a958ea70ff377fe701f637f5.usr-admin-1.ADMIN.34e0cc4c28f13596a8b707b9555d6fc5cfb0835fdfce72168b0c88268ca53023": {
+      "userId": "usr-admin-1",
+      "role": "ADMIN",
+      "expiresAt": 1792509712933
+    },
+    "86d1d860d7c16da71d59586cece82d67f5701367ccf37b3a.usr-wrk-1.WORKER.7dd70f3a4d2e8d20895f243f789e99d90d43096ccddcc61c880625cb40821b92": {
+      "userId": "usr-wrk-1",
+      "role": "WORKER",
+      "expiresAt": 1792509720503
+    },
+    "157141ee50184002dcbcaeef818e07da0f5e5e1e94c51994.usr-wrk-1.WORKER.31073739e82f497d49a7e981956a44193d15818a4be81971b589c90c122c6af2": {
+      "userId": "usr-wrk-1",
+      "role": "WORKER",
+      "expiresAt": 1792509728587
+    },
+    "d8d781a44538913c30653e89ee0ad5a7f001cdf65a3c4564.usr-wrk-1.WORKER.6c9e1a0daca20f459f52f7253ac14f7b6a6dcfeeb7f8b4834b7a5c77e4bfbf02": {
+      "userId": "usr-wrk-1",
+      "role": "WORKER",
+      "expiresAt": 1792509738537
+    },
+    "3b0c03ccbeb8b6fedf053cae0bb6b29c93a2912d6a008372.usr-wrk-1.WORKER.470a5cab71ae7bff55186f4d73d2aab6e21b85e8a86d39d6b83624f73ab26afc": {
+      "userId": "usr-wrk-1",
+      "role": "WORKER",
+      "expiresAt": 1792509771796
+    },
+    "14f39199b9800e4d22a859eafbd7484bbfba8792985b41c4.usr-1791907180556.CUSTOMER.bf858755600e6c38b08210c40de0023d71e405331b42901df202c97414d9a475": {
+      "userId": "usr-1791907180556",
+      "role": "CUSTOMER",
+      "expiresAt": 1792511980556
+    },
+    "dd30359731e80d01ec94ec8f8c7f51d024238b2a18acf3d0.usr-admin-1.ADMIN.9241830eda631d95efbd52abbc3bc56cdf2d6df8f48e2d9d6a7618c3654171a9": {
+      "userId": "usr-admin-1",
+      "role": "ADMIN",
+      "expiresAt": 1792512165048
+    },
+    "79cd81d8512e03a618cee9fc76b1f113e32b3d59525afc56.usr-admin-1.ADMIN.be3150592385b4ea2e2918d8fb87d8c28bb6e4dc1bd106a5a443da78bf2e889d": {
+      "userId": "usr-admin-1",
+      "role": "ADMIN",
+      "expiresAt": 1792512171076
+    },
+    "a724a220e61fe92067f6d387059f92b8484deb7fc0b99994.usr-admin-1.ADMIN.3770c3febdc5695a43dbbb8ee294f366ac4c446ac417ec056ca25e9e91a2bb3e": {
+      "userId": "usr-admin-1",
+      "role": "ADMIN",
+      "expiresAt": 1792512184143
+    },
+    "d87d69ded10bd1e62440d738ba2d49b3816a76543a11efdc.usr-admin-1.ADMIN.e788abb3c65ecd15591857122f3ee7e7a239c8605c900b241dadb70d01985c8c": {
+      "userId": "usr-admin-1",
+      "role": "ADMIN",
+      "expiresAt": 1792512252383
+    },
+    "2ace0b7335a5961fd773cee6b9f56a6024b8fd9b888e8225.usr-admin-1.ADMIN.06beb71014a73f87f9778645a4900634c30d69f99a53b5e6659edec7987cc2aa": {
+      "userId": "usr-admin-1",
+      "role": "ADMIN",
+      "expiresAt": 1792512414574
+    },
+    "cd0264e59e395458e92ce493e7d22e9460f7c77bb5a2f42b.usr-admin-1.ADMIN.0d48334b922fc41ec8e77c3f5dd3ccf39ba451594d7720d2262189c655cbb99b": {
+      "userId": "usr-admin-1",
+      "role": "ADMIN",
+      "expiresAt": 1792512463093
+    },
+    "532842114a52d69789216c7bbc36dd02f7ee0b6878e8da05.usr-admin-1.ADMIN.8f7ac356d3fdcdbff277778101f5b29abe478cea1e6d88069891c2af3db6d24c": {
+      "userId": "usr-admin-1",
+      "role": "ADMIN",
+      "expiresAt": 1792512713334
+    },
+    "2e63ae79c32eaf226e1296911b3b2a9d7289c7d8d3116c59.usr-admin-1.ADMIN.1fc3ac344cc4c5d87ec25daa7b6875f2835b641e98c062aa6b73b4a267555a09": {
+      "userId": "usr-admin-1",
+      "role": "ADMIN",
+      "expiresAt": 1792515035675
+    },
+    "e2618d8b01e7806af8c9de99d6c3a52a6881feb1bdb8095a.usr-admin-1.ADMIN.3e930f6c3ec98b5ad007355040bdd0f1c1320813b174ece50a1f28e4668fd23c": {
+      "userId": "usr-admin-1",
+      "role": "ADMIN",
+      "expiresAt": 1792515863247
+    },
+    "f34abd3236c86a4f533bef1b95d852fb194d1cde442f453d.usr-admin-1.ADMIN.dcd4dbf4489556b84763664d086919d74aab96ddf0dea559254eb2642b496520": {
+      "userId": "usr-admin-1",
+      "role": "ADMIN",
+      "expiresAt": 1792516533312
+    },
+    "95d093da8c41744edf93f59cdf427292ecde1bc79b5eb4b1.usr-1791805144203.CUSTOMER.a66e9f99370361b487012e94069d8c6d91acd24362b1e17440e990c77b98f42a": {
+      "userId": "usr-1791805144203",
+      "role": "CUSTOMER",
+      "expiresAt": 1792516533341
+    },
+    "8f2ae1875cbe83a3910f5a4f12d84f4d2b55a83d6f57820f.usr-wrk-1.WORKER.89af115f1d1bd56d7c354eab4bae684c6ccbef81a41c0a48e330e3eccc06d3a1": {
+      "userId": "usr-wrk-1",
+      "role": "WORKER",
+      "expiresAt": 1792516533353
+    },
+    "2cdfdea50a9ec2787bbd561b77874d7b9e66019848dcb223.usr-admin-1.ADMIN.9be7dfd85521fbdf58530d8f94ba3d00125f11c04e4f36818f69bdd61fab94e3": {
+      "userId": "usr-admin-1",
+      "role": "ADMIN",
+      "expiresAt": 1792516544577
+    },
+    "6f9db70ad9377ffb43a09f6f5d822512e77c16127315f745.usr-1791805144203.CUSTOMER.c11d8bb019a2f86321b7e49e4644680734c34c5dcd4fd19d878de51fd85ff60d": {
+      "userId": "usr-1791805144203",
+      "role": "CUSTOMER",
+      "expiresAt": 1792516544593
+    },
+    "1427608b39f444d1f8cecbc89dc656a330b51a02867184d0.usr-1791907180556.WORKER.c19bb68ffc4769a7ef9b254a63453373f97e59f3f95830e96b1e7098a3fadc76": {
+      "userId": "usr-1791907180556",
+      "role": "WORKER",
+      "expiresAt": 1792518191348
+    },
+    "6e88857c206f65b7406431db06e9c7336284616d5730df3a.usr-1791913531898.CUSTOMER.60ec346da05db7d3709b34e47129f246943663519b118685426d1c0044ab1d17": {
+      "userId": "usr-1791913531898",
+      "role": "CUSTOMER",
+      "expiresAt": 1792518331898
+    },
+    "2a4f31a6c29bcc3c26e8bcc90f5bc7b37afb1e18bb8c6a29.usr-1791913531898.CUSTOMER.4f68d62249b97813604bae8062eb85e2c8d69f72d406737257679260b4c93b3a": {
+      "userId": "usr-1791913531898",
+      "role": "CUSTOMER",
+      "expiresAt": 1792518339028
+    },
+    "65521ba81374e8850d6da44e23058ee99fed2e0f30fc6ff6.usr-1791913531898.CUSTOMER.e3ea10546feba6f8124cc20a9dfd04af38846109e99fcd2745b2c34477739cc5": {
+      "userId": "usr-1791913531898",
+      "role": "CUSTOMER",
+      "expiresAt": 1792518851279
+    },
+    "59826a2bde49f45f0b9b72a22ef27e51a5fdf24bd92fa77e.usr-1791913531898.CUSTOMER.58b93ba2a44d95bc20a1eef7f779e7943041bab7c84a5d1822b12ad38d5ee821": {
+      "userId": "usr-1791913531898",
+      "role": "CUSTOMER",
+      "expiresAt": 1792518977029
+    },
+    "fb58ad6f45bed3248133722ec1400d8cb93608e3abd2fdd5.usr-1791914191305.WORKER.2c970f055acb87f58993277ddacfd61a6a2194075f7df324f84bd3b62f783527": {
+      "userId": "usr-1791914191305",
+      "role": "WORKER",
+      "expiresAt": 1792518991305
+    },
+    "468846b63e10a0b31e4a21c6fde75c5d636dcc11e373fa33.usr-1791913531898.CUSTOMER.ddc52a5d9df81a1233d2ea7cf3c10607de127507916ad03572c9618dcdf413c7": {
+      "userId": "usr-1791913531898",
+      "role": "CUSTOMER",
+      "expiresAt": 1792518991324
+    }
+  },
+  "emergencyAlerts": [],
+  "communityBulkBookings": [
+    {
+      "id": "blk-sample-101",
+      "bulkReference": "BLK-2026-101",
+      "representativeId": "usr-admin-1",
+      "representativeName": "Ananya Sen (Society Secretary)",
+      "representativePhone": "+91 98300 90011",
+      "societyName": "Labony Estate Cooperative Society",
+      "serviceCategory": "Plumber",
+      "preferredDate": "2026-10-13",
+      "preferredTimeSlot": "Morning (08:00 - 12:00)",
+      "householdCount": 5,
+      "households": [
+        {
+          "unitId": "u-1",
+          "flatNumber": "Flat 101, Block A",
+          "residentName": "Debabrata Roy",
+          "residentPhone": "+91 98301 22331",
+          "status": "ACCEPTED",
+          "notes": "Kitchen sink pipe inspection"
+        },
+        {
+          "unitId": "u-2",
+          "flatNumber": "Flat 102, Block A",
+          "residentName": "Mousumi Paul",
+          "residentPhone": "+91 98302 44552",
+          "status": "ACCEPTED",
+          "notes": "Bathroom tap leak"
+        },
+        {
+          "unitId": "u-3",
+          "flatNumber": "Flat 201, Block B",
+          "residentName": "Sanjay Gupta",
+          "residentPhone": "+91 98303 66773",
+          "status": "ACCEPTED",
+          "notes": "Water purifier valve fitting"
+        },
+        {
+          "unitId": "u-4",
+          "flatNumber": "Flat 202, Block B",
+          "residentName": "Kakali Banerjee",
+          "residentPhone": "+91 98304 88994",
+          "status": "ACCEPTED",
+          "notes": "Overhead tank check"
+        },
+        {
+          "unitId": "u-5",
+          "flatNumber": "Flat 301, Block C",
+          "residentName": "Alok Mukherjee",
+          "residentPhone": "+91 98305 00115",
+          "status": "ACCEPTED",
+          "notes": "Washbasin drainage blockage"
+        }
+      ],
+      "perHouseholdPriceInr": 340,
+      "totalPriceInr": 1700,
+      "discountPercent": 15,
+      "status": "ACCEPTED",
+      "createdAt": "2026-10-12T19:01:21.720Z",
+      "updatedAt": "2026-10-13T08:18:11.476Z",
+      "isSampleDemo": true,
+      "assignedWorkerId": "wrk-101",
+      "assignedWorkerName": "Subrata Mondal"
+    }
+  ],
+  "disputes": [],
+  "welfareRequests": [],
+  "collaborationRequests": [
+    {
+      "id": "collab-demo-1",
+      "bookingId": "bkg-demo-inverter-101",
+      "bookingReference": "BKG-2026-INV",
+      "initiatorWorkerId": "wrk-101",
+      "initiatorWorkerName": "Subrata Mondal",
+      "initiatorWorkerPhone": "+91 98305 11201",
+      "serviceCategory": "Electrician",
+      "requiredSkill": "Inverter Setup",
+      "suggestedSkills": [
+        "Switchboard Wiring",
+        "Appliance Earthing"
+      ],
+      "jobLocationArea": "Karunamoyee, Sector-2, Salt Lake",
+      "expectedDurationHours": 2.5,
+      "jobSummary": "Heavy commercial inverter & dual battery rack mounting requiring a second technician for heavy cable conduits.",
+      "notes": "Need support with 32A MCB connection and wall mounting bracket.",
+      "status": "HELP_REQUESTED",
+      "isSimulatedDemo": true,
+      "createdAt": "2026-10-12T19:01:21.719Z",
+      "updatedAt": "2026-10-12T19:01:21.719Z"
+    }
+  ],
+  "allocationFeedback": [],
+  "timeProtectionRecords": [],
+  "sparePartsEstimates": [],
+  "coopProposals": [
+    {
+      "id": "prop-101",
+      "title": "Vocational BIS Electrical Safety & High-Voltage Certification Subsidy",
+      "description": "Allocate up to ₹3,500 from the cooperative welfare fund for certified electrician safety gear, digital multi-meters, and official BIS safety modules.",
+      "category": "TRAINING",
+      "proposedByWorkerId": "wrk-101",
+      "proposedByWorkerName": "Subrata Mondal",
+      "status": "ACTIVE",
+      "upvotes": 6,
+      "downvotes": 0,
+      "votes": {
+        "wrk-101": "FOR",
+        "wrk-102": "FOR"
+      },
+      "isDemoVoting": true,
+      "createdAt": "2026-10-10T19:01:21.720Z"
+    },
+    {
+      "id": "prop-102",
+      "title": "Adjust Cooperative Fund Split for Heavy Commercial Multi-Unit Jobs from 90:10 to 92:8",
+      "description": "For apartment complex jobs involving over 4 households, increase direct worker payout share to 92% to compensate for high physical labor intensity.",
+      "category": "WELFARE_POLICY",
+      "proposedByWorkerId": "wrk-102",
+      "proposedByWorkerName": "Rameshwar Yadav",
+      "status": "ACTIVE",
+      "upvotes": 8,
+      "downvotes": 1,
+      "votes": {
+        "wrk-102": "FOR"
+      },
+      "isDemoVoting": true,
+      "createdAt": "2026-10-09T19:01:21.720Z"
+    },
+    {
+      "id": "prop-103",
+      "title": "Standardized Tool Upgrade Subsidy for Plumbing & Carpentry Kits",
+      "description": "Provide an annual ₹2,500 equipment grant for durable pipe cutters, PPR welding machines, and impact drills to improve service speed and reduce customer delays.",
+      "category": "SAFETY_EQUIPMENT",
+      "proposedByWorkerId": "wrk-103",
+      "proposedByWorkerName": "Tarun Karmakar",
+      "status": "ACTIVE",
+      "upvotes": 7,
+      "downvotes": 0,
+      "votes": {},
+      "isDemoVoting": true,
+      "createdAt": "2026-10-08T19:01:21.720Z"
+    },
+    {
+      "id": "prop-104",
+      "title": "Mandatory 15-Minute Transit Buffer Between Scheduled Society Bookings",
+      "description": "Ensure automated dispatch algorithms enforce a mandatory 15-minute rest and travel buffer between consecutive jobs in peak Kolkata traffic.",
+      "category": "COOP_RULES",
+      "proposedByWorkerId": "wrk-105",
+      "proposedByWorkerName": "Alok Barman",
+      "status": "ACTIVE",
+      "upvotes": 5,
+      "downvotes": 2,
+      "votes": {},
+      "isDemoVoting": true,
+      "createdAt": "2026-10-07T19:01:21.720Z"
+    }
+  ],
+  "safeVisitLogs": [],
+  "jobNotes": [
+    {
+      "id": "note-offline-2",
+      "bookingId": "bkg-demo-101",
+      "bookingReference": "BK-mo-101",
+      "workerId": "wrk-101",
+      "workerName": "Subrata Mondal",
+      "noteText": "Measured kitchen mixer thread: 32mm standard thread.",
+      "category": "Parts & Materials",
+      "isOfflineCreated": true,
+      "synced": true,
+      "syncedAt": "2026-10-12T19:13:47.149Z",
+      "createdAt": "2026-10-12T19:05:00.000Z",
+      "updatedAt": "2026-10-12T19:13:47.149Z"
+    },
+    {
+      "id": "note-offline-1",
+      "bookingId": "bkg-demo-101",
+      "bookingReference": "BK-mo-101",
+      "workerId": "wrk-101",
+      "workerName": "Subrata Mondal",
+      "noteText": "Customer requested to also check the kitchen sink mixer cartridge.",
+      "category": "Customer Instruction",
+      "isOfflineCreated": true,
+      "synced": true,
+      "syncedAt": "2026-10-12T19:13:47.149Z",
+      "createdAt": "2026-10-12T19:00:00.000Z",
+      "updatedAt": "2026-10-12T19:13:47.149Z"
+    },
+    {
+      "id": "note-1791832417580-183om",
+      "bookingId": "bkg-demo-101",
+      "bookingReference": "BK-mo-101",
+      "workerId": "wrk-101",
+      "workerName": "Subrata Mondal",
+      "noteText": "Inspected main water line. 1/2 inch ball valve replaced cleanly.",
+      "category": "Site Inspection",
+      "isOfflineCreated": false,
+      "synced": true,
+      "syncedAt": "2026-10-12T19:13:37.580Z",
+      "createdAt": "2026-10-12T19:13:37.580Z",
+      "updatedAt": "2026-10-12T19:13:37.580Z"
+    }
+  ],
+  "complaintToActions": [],
+  "repairReports": [],
+  "bookingGapAnalyses": [],
+  "coopPolicyQueries": []
+}
